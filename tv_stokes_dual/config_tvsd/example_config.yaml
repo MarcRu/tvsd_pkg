@@ -1,0 +1,49 @@
+
+#[Marc Runft, 2025-04-01]
+#Example Configuration File for dual Tv Stokes implementation 
+#  without Domain Decomposition. Vary parameters here, 
+#  but do not change the names of the parameters.
+
+
+tangent_field_smoothing:
+  print_details: 2                    #0 / 1 / 2
+  record_steps: 1                     #0 / 1
+  h: 1.0                              #grid size
+  k: 0.125                            #step size in Chambolle iteration
+  delta: 0.15                        #regularization parameter
+                                      #the higher delta, the lower the weight of noisy tangent field
+  projection_mode: "neumann"          #neumann / dirichlet
+                                      #   neumann = inv laplacian with dct
+                                      #       use backdiff for tangent field estimation
+                                      #   dirichlet = inv laplacian with dst
+                                      #       use forwdiff for tangent field estimation
+  stop_criteria: "none"               #none / Cauchy
+  max_steps: 1                  #number of iterations if algorithm is 
+                                      #   not stopped by any criteria
+  energy_thresh_diff: 0.0000001       #only relevant if 
+                                      #   stop_criteria == "energy_thresh"   
+
+
+image_reconstruction:
+  variant: 1                          #1 / 2
+  print_details: 2                    #0 / 1 / 2
+  record_steps: 1                     #0 / 1
+  h: 1.0                              #grid size                           
+  k: 0.125                            #step size in Chambolle iteration
+  mu: 0.1                             #regularization parameter
+                                      #the heigher mu, the lower the weight of noisy image
+                                      #ONLY USED for VARIANT 1
+  beta: 10.0                          #regularization parameter
+                                      #the higher beta, the higher the weight of noisy image
+                                      #ONLY USED for VARIANT 2
+  eps: 0.001                          #numerical stability parameter when
+                                      #   determining normal field n/|n|
+                                      #ONLY USED for VARIANT 1
+  diff_mode: "neumann"                #neumann / dirichlet
+                                      #   neumann = use div^- and grad^+
+                                      #   dirichlet = use div^+ and grad^-
+  stop_criteria: "none"               #none / Cauchy
+  max_steps: 10000                  #number of iterations if algorithm is 
+                                      #   not stopped by any criteria
+  energy_thresh_diff: 0.0000001       #only relevant if 
+                                      #   stop_criteria = "energy_thresh"

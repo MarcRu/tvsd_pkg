@@ -1,0 +1,81 @@
+
+#[Marc Runft, 2025-02-18]
+#Configuration file for dual Tv Stokes implementation
+#  Vary parameters here, 
+#  but do not change the names of the parameters.
+
+
+recorder:                             #PRINTING, RECORDING AND LOGGING
+  print_details: 2                    #0 / 1 / 2 / 3 / 4
+  record_steps: 2                     #0 / 1 / 2 / 3 / 4 / 5
+                                      #save images in interim steps
+                                      #0 = no
+                                      #1 = only noisy, denoised, tangent fields, normal fields
+                                      #2 = outer iterations: first ten, then every
+                                      #    tenth till 100, then every 100th till 1000 ...
+                                      #3 = every outer iteration
+                                      #4 = every outer iteration;
+                                      #    inner iterations: first ten, then every
+                                      #    tenth till 100, then every 100th till 1000 ...
+                                      #    (not recommended for big images)
+                                      #5 = every inner iteration
+                                      #    (not recommended for big images)
+  log_details: 2                      #0 / 1 / 2 / 3 / 4
+
+
+domain_decomposition:                 #DOMAIN DECOMPOSITION
+    M1: 3                             #domains in x-direction
+    M2: 3                             #domains in y-direction
+    overlap_x: 3                      #overlapping pixels between domains 
+                                      #in x-direction (all pixels for which
+                                      #0 neq theta neq 1)
+    overlap_y: 4                      #overlapping pixels between domains
+                                      #in y-direction (all pixels for which
+                                      #0 neq theta neq 1)
+
+h: 1.0                                #grid size
+eps: 0.001                            #numerical stability parameter when
+                                      #   determining normal field xi=n/|n|
+
+tangent_field_smoothing:              #TANGENT FIELD SMOOTHING PARAMETERS
+  k: 0.125                            #step size in Chambolle iteration
+                                      #Recommended: 0 < k <= 0.25
+  delta: 0.15                         #weight parameter of two summands in functional
+                                      #the higher delta, the higher the weight of TV
+  alpha: 0.25                         #0 < alpha <= 1
+                                      #Update weight for DD in outer iteration
+  num_outer_it_max: 5000
+  num_inner_it_max: 10
+  outer_stop_criteria: "Cauchy"         #none/Cauchy/norm_diff_p
+  inner_stop_criteria: "Cauchy"         #none/Cauchy/norm_diff_v
+  inner_cauchy_thresh: 0.0000000001   #Threshold for Cauchy criterion (e.g. 0.0001)
+                                      #to break inner loop
+                                      #|v^{n+1}-v^n| < inner_cauchy_thresh
+  outer_cauchy_thresh: 0.0000000001   #only relevant for outer_stop_criteria="cauchy"
+                                      #Threshold for Cauchy criterion (e.g. 0.00002)
+                                      #to break outer loop
+                                      #|p^{n+1}-p^n| < outer_cauchy_thresh                                    
+
+image_reconstruction:                 #IMAGE RECONSTRUCTION PARAMETERS
+  variant: 2                          #1 / 2                   
+  k: 0.125                            #step size in Chambolle iteration
+                                      #Recommended: 0 < k <= 0.25
+  mu: 0.1                             #weight parameter of two summands in functional
+                                      #the heigher mu, the lower the weight of noisy image
+                                      #ONLY USED for VARIANT 1
+  beta: 10.0                           #weight parameter of two summands in functional
+                                      #the higher beta, the higher the weight of noisy image
+                                      #ONLY USED for VARIANT 2
+  alpha: 0.25                         #0 < alpha <= 1
+                                      #Update weight for DD in outer iteration
+  num_outer_it_max: 5000
+  num_inner_it_max: 10
+  outer_stop_criteria: "Cauchy"         #none/Cauchy/norm_diff_r
+  inner_stop_criteria: "Cauchy"         #none/Cauchy/norm_diff_w
+  inner_cauchy_thresh: 0.0000000001    #Threshold for Cauchy criterion (e.g. 0.0001)
+                                      #to break inner loop
+                                      #|w^{n+1}-w^n| < inner_cauchy_thresh
+  outer_cauchy_thresh: 0.0000000001   #only relevant for outer_stop_criteria="cauchy"
+                                      #Threshold for Cauchy criterion (e.g. 0.00002)
+                                      #to break outer loop
+                                      #|r^{n+1}-r^n| < outer_cauchy_thresh

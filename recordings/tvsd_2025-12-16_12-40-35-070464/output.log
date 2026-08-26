@@ -1,0 +1,3815 @@
+INFO:/home/ma6447ru/Documents/promotion/mythesis/python/tvsd_pkg/recordings/tvsd_2025-12-16_12-40-35-070464/noisy_img.png
+INFO:Tangent Field Smoothing starting.
+INFO:/home/ma6447ru/Documents/promotion/mythesis/python/tvsd_pkg/recordings/tvsd_2025-12-16_12-40-35-070464/tau0[0].png
+INFO:/home/ma6447ru/Documents/promotion/mythesis/python/tvsd_pkg/recordings/tvsd_2025-12-16_12-40-35-070464/tau0[1].png
+INFO:Step: 0
+INFO:Divergence l2norm(div(tau)): 5.0327485045316023e-14
+INFO:Energy l2norm(Pi_k div p - delta^(-1) tau_0): 0.8228758371964348
+INFO:Tangent Field Smoothing finishing.
+INFO:/home/ma6447ru/Documents/promotion/mythesis/python/tvsd_pkg/recordings/tvsd_2025-12-16_12-40-35-070464/tau[0].png
+INFO:/home/ma6447ru/Documents/promotion/mythesis/python/tvsd_pkg/recordings/tvsd_2025-12-16_12-40-35-070464/tau[1].png
+INFO:/home/ma6447ru/Documents/promotion/mythesis/python/tvsd_pkg/recordings/tvsd_2025-12-16_12-40-35-070464/xi[0].png
+INFO:/home/ma6447ru/Documents/promotion/mythesis/python/tvsd_pkg/recordings/tvsd_2025-12-16_12-40-35-070464/xi[1].png
+INFO:Image Reconstruction (variant 1) starting.
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 0:
+INFO:6.546864892205189
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1:
+INFO:6.485282152125201
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2:
+INFO:6.462843451178478
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3:
+INFO:6.4514486455111895
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4:
+INFO:6.444684195791897
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5:
+INFO:6.440261382545367
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6:
+INFO:6.437167239570856
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7:
+INFO:6.434890367046859
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8:
+INFO:6.433148030329522
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9:
+INFO:6.431772859031412
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 10:
+INFO:6.43066020002519
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 11:
+INFO:6.429741574208029
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 12:
+INFO:6.4289704117693285
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 13:
+INFO:6.428313971129246
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 14:
+INFO:6.427748567983343
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 15:
+INFO:6.427256640392808
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 16:
+INFO:6.42682488491772
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 17:
+INFO:6.426443035520282
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 18:
+INFO:6.426103039212665
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 19:
+INFO:6.425798488417498
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 20:
+INFO:6.425524220288503
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 21:
+INFO:6.4252760277237435
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 22:
+INFO:6.425050447148658
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 23:
+INFO:6.424844600776016
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 24:
+INFO:6.4246560776825365
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 25:
+INFO:6.424482842565925
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 26:
+INFO:6.424323165347337
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 27:
+INFO:6.424175565981517
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 28:
+INFO:6.424038770897087
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 29:
+INFO:6.423911678357358
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 30:
+INFO:6.423793330438855
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 31:
+INFO:6.4236828903407925
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 32:
+INFO:6.423579623791782
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 33:
+INFO:6.423482883778901
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 34:
+INFO:6.4233920980230925
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 35:
+INFO:6.423306758475429
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 36:
+INFO:6.423226412558723
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 37:
+INFO:6.42315065581479
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 38:
+INFO:6.423079125656378
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 39:
+INFO:6.4230114961454206
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 40:
+INFO:6.4229474734778265
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 41:
+INFO:6.422886792142032
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 42:
+INFO:6.422829211626124
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 43:
+INFO:6.422774513544096
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 44:
+INFO:6.422722499159314
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 45:
+INFO:6.4226729872314605
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 46:
+INFO:6.422625812145601
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 47:
+INFO:6.422580822275659
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 48:
+INFO:6.422537878548459
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 49:
+INFO:6.422496853181476
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 50:
+INFO:6.4224576285655885
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 51:
+INFO:6.422420096271328
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 52:
+INFO:6.422384156182164
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 53:
+INFO:6.422349715720457
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 54:
+INFO:6.422316689160206
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 55:
+INFO:6.422284997010036
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 56:
+INFO:6.422254565460618
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 57:
+INFO:6.422225325888871
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 58:
+INFO:6.422197214417204
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 59:
+INFO:6.422170171515728
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 60:
+INFO:6.422144141642815
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 61:
+INFO:6.42211907291962
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 62:
+INFO:6.422094916834288
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 63:
+INFO:6.422071627979879
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 64:
+INFO:6.422049163814425
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 65:
+INFO:6.42202748444395
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 66:
+INFO:6.4220065524220935
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 67:
+INFO:6.421986332566913
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 68:
+INFO:6.421966791794623
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 69:
+INFO:6.421947898967331
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 70:
+INFO:6.421929624753534
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 71:
+INFO:6.421911941500513
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 72:
+INFO:6.421894823118583
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 73:
+INFO:6.421878244975418
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 74:
+INFO:6.421862183797426
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 75:
+INFO:6.421846617578332
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 76:
+INFO:6.421831525497375
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 77:
+INFO:6.421816887841808
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 78:
+INFO:6.421802685934609
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 79:
+INFO:6.4217889020700865
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 80:
+INFO:6.421775519451792
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 81:
+INFO:6.421762522135943
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 82:
+INFO:6.421749894978921
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 83:
+INFO:6.421737623589762
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 84:
+INFO:6.421725694284732
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 85:
+INFO:6.421714094044637
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 86:
+INFO:6.421702810476534
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 87:
+INFO:6.421691831777228
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 88:
+INFO:6.421681146699424
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 89:
+INFO:6.421670744519999
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 90:
+INFO:6.4216606150103255
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 91:
+INFO:6.421650748408582
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 92:
+INFO:6.4216411353942044
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 93:
+INFO:6.421631767063734
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 94:
+INFO:6.421622634908337
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 95:
+INFO:6.421613730792625
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 96:
+INFO:6.421605046934708
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 97:
+INFO:6.421596575887686
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 98:
+INFO:6.421588310522371
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 99:
+INFO:6.42158024401072
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 100:
+INFO:6.42157236981026
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 101:
+INFO:6.421564681650143
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 102:
+INFO:6.421557173517165
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 103:
+INFO:6.421549839643247
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 104:
+INFO:6.421542674493669
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 105:
+INFO:6.421535672755783
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 106:
+INFO:6.421528829328297
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 107:
+INFO:6.421522139311057
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 108:
+INFO:6.421515597995283
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 109:
+INFO:6.421509200854093
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 110:
+INFO:6.4215029435342705
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 111:
+INFO:6.421496821848518
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 112:
+INFO:6.421490831768531
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 113:
+INFO:6.4214849694172935
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 114:
+INFO:6.421479231062059
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 115:
+INFO:6.421473613107911
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 116:
+INFO:6.421468112091568
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 117:
+INFO:6.421462724675328
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 118:
+INFO:6.4214574476416315
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 119:
+INFO:6.421452277888314
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 120:
+INFO:6.421447212423459
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 121:
+INFO:6.421442248360725
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 122:
+INFO:6.421437382914879
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 123:
+INFO:6.4214326133975135
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 124:
+INFO:6.421427937213002
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 125:
+INFO:6.421423351854527
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 126:
+INFO:6.421418854900361
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 127:
+INFO:6.421414444010652
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 128:
+INFO:6.421410116924083
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 129:
+INFO:6.421405871454538
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 130:
+INFO:6.421401705488123
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 131:
+INFO:6.421397616980303
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 132:
+INFO:6.421393603953124
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 133:
+INFO:6.421389664492609
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 134:
+INFO:6.4213857967462635
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 135:
+INFO:6.421381998920685
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 136:
+INFO:6.4213782692792565
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 137:
+INFO:6.421374606139982
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 138:
+INFO:6.42137100787337
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 139:
+INFO:6.4213674729005
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 140:
+INFO:6.421363999691127
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 141:
+INFO:6.421360586761867
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 142:
+INFO:6.421357232674488
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 143:
+INFO:6.421353936034242
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 144:
+INFO:6.421350695488274
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 145:
+INFO:6.421347509724114
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 146:
+INFO:6.421344377468207
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 147:
+INFO:6.421341297484523
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 148:
+INFO:6.4213382685732165
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 149:
+INFO:6.4213352895693445
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 150:
+INFO:6.421332359341614
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 151:
+INFO:6.421329476791217
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 152:
+INFO:6.421326640850749
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 153:
+INFO:6.421323850483108
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 154:
+INFO:6.42132110468045
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 155:
+INFO:6.421318402463195
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 156:
+INFO:6.421315742879061
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 157:
+INFO:6.421313125002148
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 158:
+INFO:6.4213105479320465
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 159:
+INFO:6.421308010793001
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 160:
+INFO:6.421305512733094
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 161:
+INFO:6.4213030529234585
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 162:
+INFO:6.421300630557522
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 163:
+INFO:6.421298244850294
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 164:
+INFO:6.421295895037665
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 165:
+INFO:6.421293580375751
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 166:
+INFO:6.421291300140245
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 167:
+INFO:6.421289053625798
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 168:
+INFO:6.42128684014541
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 169:
+INFO:6.42128465902986
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 170:
+INFO:6.421282509627138
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 171:
+INFO:6.421280391301917
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 172:
+INFO:6.421278303435027
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 173:
+INFO:6.421276245422968
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 174:
+INFO:6.421274216677412
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 175:
+INFO:6.42127221662476
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 176:
+INFO:6.421270244705685
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 177:
+INFO:6.421268300374704
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 178:
+INFO:6.42126638309977
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 179:
+INFO:6.421264492361854
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 180:
+INFO:6.421262627654585
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 181:
+INFO:6.421260788483851
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 182:
+INFO:6.421258974367442
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 183:
+INFO:6.421257184834712
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 184:
+INFO:6.421255419426236
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 185:
+INFO:6.4212536776935085
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 186:
+INFO:6.421251959198625
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 187:
+INFO:6.4212502635139295
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 188:
+INFO:6.4212485902217376
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 189:
+INFO:6.421246938914061
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 190:
+INFO:6.421245309192366
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 191:
+INFO:6.4212437006672936
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 192:
+INFO:6.421242112958403
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 193:
+INFO:6.421240545693906
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 194:
+INFO:6.421238998510367
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 195:
+INFO:6.421237471052446
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 196:
+INFO:6.421235962972795
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 197:
+INFO:6.421234473931915
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 198:
+INFO:6.421233003597925
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 199:
+INFO:6.421231551646319
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 200:
+INFO:6.4212301177597695
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 201:
+INFO:6.421228701627873
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 202:
+INFO:6.421227302946978
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 203:
+INFO:6.421225921420048
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 204:
+INFO:6.42122455675649
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 205:
+INFO:6.421223208671977
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 206:
+INFO:6.4212218768882705
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 207:
+INFO:6.421220561133057
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 208:
+INFO:6.421219261139818
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 209:
+INFO:6.421217976647663
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 210:
+INFO:6.421216707401193
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 211:
+INFO:6.421215453150353
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 212:
+INFO:6.421214213650306
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 213:
+INFO:6.4212129886613
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 214:
+INFO:6.421211777948532
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 215:
+INFO:6.421210581282029
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 216:
+INFO:6.421209398436539
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 217:
+INFO:6.4212082291913894
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 218:
+INFO:6.42120707333038
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 219:
+INFO:6.42120593064168
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 220:
+INFO:6.421204800917714
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 221:
+INFO:6.42120368395506
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 222:
+INFO:6.42120257955436
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 223:
+INFO:6.42120148752021
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 224:
+INFO:6.421200407661073
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 225:
+INFO:6.421199339789178
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 226:
+INFO:6.421198283720432
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 227:
+INFO:6.421197239274319
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 228:
+INFO:6.421196206273821
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 229:
+INFO:6.42119518454535
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 230:
+INFO:6.421194173918662
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 231:
+INFO:6.421193174226783
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 232:
+INFO:6.421192185305923
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 233:
+INFO:6.421191206995412
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 234:
+INFO:6.421190239137629
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 235:
+INFO:6.42118928157793
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 236:
+INFO:6.421188334164583
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 237:
+INFO:6.421187396748703
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 238:
+INFO:6.421186469184181
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 239:
+INFO:6.4211855513276275
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 240:
+INFO:6.421184643038303
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 241:
+INFO:6.421183744178067
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 242:
+INFO:6.42118285461131
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 243:
+INFO:6.42118197420491
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 244:
+INFO:6.421181102828171
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 245:
+INFO:6.421180240352765
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 246:
+INFO:6.421179386652689
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 247:
+INFO:6.421178541604207
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 248:
+INFO:6.421177705085805
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 249:
+INFO:6.421176876978138
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 250:
+INFO:6.421176057163981
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 251:
+INFO:6.4211752455281745
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 252:
+INFO:6.42117444195759
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 253:
+INFO:6.42117364634109
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 254:
+INFO:6.4211728585694825
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 255:
+INFO:6.421172078535484
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 256:
+INFO:6.421171306133683
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 257:
+INFO:6.421170541260491
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 258:
+INFO:6.421169783814111
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 259:
+INFO:6.421169033694496
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 260:
+INFO:6.421168290803312
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 261:
+INFO:6.421167555043903
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 262:
+INFO:6.421166826321258
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 263:
+INFO:6.421166104541976
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 264:
+INFO:6.421165389614218
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 265:
+INFO:6.4211646814476895
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 266:
+INFO:6.421163979953609
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 267:
+INFO:6.42116328504468
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 268:
+INFO:6.421162596635059
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 269:
+INFO:6.421161914640328
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 270:
+INFO:6.421161238977465
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 271:
+INFO:6.4211605695648135
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 272:
+INFO:6.421159906322064
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 273:
+INFO:6.421159249170215
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 274:
+INFO:6.421158598031554
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 275:
+INFO:6.421157952829634
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 276:
+INFO:6.42115731348924
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 277:
+INFO:6.421156679936372
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 278:
+INFO:6.421156052098211
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 279:
+INFO:6.421155429903102
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 280:
+INFO:6.4211548132805385
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 281:
+INFO:6.421154202161128
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 282:
+INFO:6.421153596476581
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 283:
+INFO:6.421152996159686
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 284:
+INFO:6.421152401144285
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 285:
+INFO:6.421151811365268
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 286:
+INFO:6.42115122675854
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 287:
+INFO:6.421150647260999
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 288:
+INFO:6.421150072810532
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 289:
+INFO:6.421149503345979
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 290:
+INFO:6.421148938807129
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 291:
+INFO:6.421148379134691
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 292:
+INFO:6.42114782427029
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 293:
+INFO:6.4211472741564375
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 294:
+INFO:6.421146728736519
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 295:
+INFO:6.4211461879547835
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 296:
+INFO:6.421145651756322
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 297:
+INFO:6.421145120087053
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 298:
+INFO:6.4211445928937065
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 299:
+INFO:6.4211440701238125
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 300:
+INFO:6.421143551725681
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 301:
+INFO:6.4211430376483944
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 302:
+INFO:6.421142527841787
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 303:
+INFO:6.421142022256436
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 304:
+INFO:6.42114152084365
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 305:
+INFO:6.421141023555446
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 306:
+INFO:6.421140530344544
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 307:
+INFO:6.421140041164357
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 308:
+INFO:6.421139555968972
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 309:
+INFO:6.421139074713142
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 310:
+INFO:6.4211385973522725
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 311:
+INFO:6.421138123842422
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 312:
+INFO:6.421137654140268
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 313:
+INFO:6.421137188203122
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 314:
+INFO:6.421136725988898
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 315:
+INFO:6.421136267456115
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 316:
+INFO:6.421135812563875
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 317:
+INFO:6.421135361271866
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 318:
+INFO:6.42113491354034
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 319:
+INFO:6.42113446933011
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 320:
+INFO:6.421134028602539
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 321:
+INFO:6.421133591319535
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 322:
+INFO:6.421133157443534
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 323:
+INFO:6.421132726937494
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 324:
+INFO:6.42113229976489
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 325:
+INFO:6.4211318758897
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 326:
+INFO:6.421131455276402
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 327:
+INFO:6.421131037889954
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 328:
+INFO:6.421130623695805
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 329:
+INFO:6.421130212659865
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 330:
+INFO:6.421129804748516
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 331:
+INFO:6.421129399928593
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 332:
+INFO:6.421128998167381
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 333:
+INFO:6.421128599432604
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 334:
+INFO:6.421128203692426
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 335:
+INFO:6.421127810915433
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 336:
+INFO:6.421127421070634
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 337:
+INFO:6.42112703412745
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 338:
+INFO:6.421126650055709
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 339:
+INFO:6.421126268825642
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 340:
+INFO:6.421125890407869
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 341:
+INFO:6.4211255147734025
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 342:
+INFO:6.421125141893633
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 343:
+INFO:6.421124771740329
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 344:
+INFO:6.42112440428563
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 345:
+INFO:6.421124039502032
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 346:
+INFO:6.421123677362395
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 347:
+INFO:6.421123317839927
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 348:
+INFO:6.421122960908189
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 349:
+INFO:6.421122606541075
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 350:
+INFO:6.421122254712816
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 351:
+INFO:6.421121905397979
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 352:
+INFO:6.421121558571449
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 353:
+INFO:6.421121214208438
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 354:
+INFO:6.421120872284469
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 355:
+INFO:6.421120532775377
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 356:
+INFO:6.421120195657303
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 357:
+INFO:6.421119860906689
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 358:
+INFO:6.421119528500274
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 359:
+INFO:6.421119198415089
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 360:
+INFO:6.421118870628451
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 361:
+INFO:6.4211185451179595
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 362:
+INFO:6.421118221861494
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 363:
+INFO:6.42111790083721
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 364:
+INFO:6.421117582023531
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 365:
+INFO:6.421117265399151
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 366:
+INFO:6.4211169509430235
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 367:
+INFO:6.421116638634363
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 368:
+INFO:6.4211163284526345
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 369:
+INFO:6.421116020377559
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 370:
+INFO:6.421115714389105
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 371:
+INFO:6.421115410467476
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 372:
+INFO:6.421115108593125
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 373:
+INFO:6.421114808746736
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 374:
+INFO:6.421114510909227
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 375:
+INFO:6.4211142150617455
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 376:
+INFO:6.421113921185666
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 377:
+INFO:6.421113629262585
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 378:
+INFO:6.421113339274316
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 379:
+INFO:6.421113051202895
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 380:
+INFO:6.421112765030568
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 381:
+INFO:6.421112480739787
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 382:
+INFO:6.421112198313217
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 383:
+INFO:6.421111917733725
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 384:
+INFO:6.421111638984379
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 385:
+INFO:6.4211113620484435
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 386:
+INFO:6.421111086909382
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 387:
+INFO:6.421110813550849
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 388:
+INFO:6.4211105419566845
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 389:
+INFO:6.421110272110924
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 390:
+INFO:6.4211100039977795
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 391:
+INFO:6.421109737601649
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 392:
+INFO:6.421109472907106
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 393:
+INFO:6.421109209898906
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 394:
+INFO:6.421108948561977
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 395:
+INFO:6.421108688881417
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 396:
+INFO:6.4211084308425015
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 397:
+INFO:6.4211081744306675
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 398:
+INFO:6.421107919631519
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 399:
+INFO:6.421107666430823
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 400:
+INFO:6.421107414814506
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 401:
+INFO:6.421107164768658
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 402:
+INFO:6.421106916279522
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 403:
+INFO:6.421106669333491
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 404:
+INFO:6.42110642391712
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 405:
+INFO:6.421106180017104
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 406:
+INFO:6.421105937620297
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 407:
+INFO:6.421105696713688
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 408:
+INFO:6.4211054572844155
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 409:
+INFO:6.421105219319765
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 410:
+INFO:6.421104982807151
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 411:
+INFO:6.421104747734135
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 412:
+INFO:6.421104514088409
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 413:
+INFO:6.421104281857804
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 414:
+INFO:6.42110405103028
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 415:
+INFO:6.421103821593932
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 416:
+INFO:6.421103593536983
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 417:
+INFO:6.421103366847782
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 418:
+INFO:6.421103141514806
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 419:
+INFO:6.421102917526655
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 420:
+INFO:6.421102694872054
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 421:
+INFO:6.421102473539848
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 422:
+INFO:6.421102253518999
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 423:
+INFO:6.421102034798589
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 424:
+INFO:6.421101817367818
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 425:
+INFO:6.421101601215998
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 426:
+INFO:6.421101386332557
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 427:
+INFO:6.421101172707032
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 428:
+INFO:6.421100960329072
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 429:
+INFO:6.421100749188437
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 430:
+INFO:6.421100539274988
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 431:
+INFO:6.421100330578701
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 432:
+INFO:6.421100123089651
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 433:
+INFO:6.421099916798015
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 434:
+INFO:6.421099711694076
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 435:
+INFO:6.421099507768219
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 436:
+INFO:6.421099305010927
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 437:
+INFO:6.4210991034127805
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 438:
+INFO:6.421098902964456
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 439:
+INFO:6.421098703656729
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 440:
+INFO:6.421098505480469
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 441:
+INFO:6.421098308426638
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 442:
+INFO:6.421098112486293
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 443:
+INFO:6.421097917650579
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 444:
+INFO:6.421097723910733
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 445:
+INFO:6.421097531258083
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 446:
+INFO:6.42109733968404
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 447:
+INFO:6.421097149180106
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 448:
+INFO:6.421096959737869
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 449:
+INFO:6.421096771348997
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 450:
+INFO:6.421096584005248
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 451:
+INFO:6.42109639769846
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 452:
+INFO:6.421096212420552
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 453:
+INFO:6.421096028163521
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 454:
+INFO:6.421095844919452
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 455:
+INFO:6.4210956626805
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 456:
+INFO:6.421095481438902
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 457:
+INFO:6.421095301186972
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 458:
+INFO:6.421095121917099
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 459:
+INFO:6.421094943621748
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 460:
+INFO:6.421094766293456
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 461:
+INFO:6.421094589924838
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 462:
+INFO:6.421094414508577
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 463:
+INFO:6.421094240037428
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 464:
+INFO:6.42109406650422
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 465:
+INFO:6.421093893901848
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 466:
+INFO:6.421093722223277
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 467:
+INFO:6.421093551461542
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 468:
+INFO:6.421093381609744
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 469:
+INFO:6.421093212661052
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 470:
+INFO:6.421093044608698
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 471:
+INFO:6.42109287744598
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 472:
+INFO:6.421092711166263
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 473:
+INFO:6.421092545762969
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 474:
+INFO:6.421092381229592
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 475:
+INFO:6.4210922175596785
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 476:
+INFO:6.421092054746842
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 477:
+INFO:6.421091892784758
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 478:
+INFO:6.421091731667156
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 479:
+INFO:6.421091571387828
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 480:
+INFO:6.421091411940626
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 481:
+INFO:6.4210912533194575
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 482:
+INFO:6.421091095518289
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 483:
+INFO:6.421090938531141
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 484:
+INFO:6.421090782352093
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 485:
+INFO:6.421090626975275
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 486:
+INFO:6.421090472394878
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 487:
+INFO:6.421090318605145
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 488:
+INFO:6.42109016560037
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 489:
+INFO:6.4210900133749
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 490:
+INFO:6.421089861923137
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 491:
+INFO:6.421089711239532
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 492:
+INFO:6.421089561318589
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 493:
+INFO:6.421089412154861
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 494:
+INFO:6.421089263742953
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 495:
+INFO:6.421089116077517
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 496:
+INFO:6.421088969153255
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 497:
+INFO:6.421088822964915
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 498:
+INFO:6.421088677507297
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 499:
+INFO:6.421088532775245
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 500:
+INFO:6.421088388763651
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 501:
+INFO:6.421088245467452
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 502:
+INFO:6.421088102881632
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 503:
+INFO:6.421087961001218
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 504:
+INFO:6.421087819821285
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 505:
+INFO:6.421087679336947
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 506:
+INFO:6.421087539543367
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 507:
+INFO:6.42108740043575
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 508:
+INFO:6.42108726200934
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 509:
+INFO:6.421087124259429
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 510:
+INFO:6.421086987181347
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 511:
+INFO:6.4210868507704655
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 512:
+INFO:6.4210867150221995
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 513:
+INFO:6.421086579932003
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 514:
+INFO:6.421086445495369
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 515:
+INFO:6.421086311707833
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 516:
+INFO:6.421086178564965
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 517:
+INFO:6.42108604606238
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 518:
+INFO:6.421085914195726
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 519:
+INFO:6.4210857829606915
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 520:
+INFO:6.4210856523530015
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 521:
+INFO:6.421085522368421
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 522:
+INFO:6.421085393002747
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 523:
+INFO:6.4210852642518175
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 524:
+INFO:6.421085136111502
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 525:
+INFO:6.42108500857771
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 526:
+INFO:6.421084881646382
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 527:
+INFO:6.4210847553134975
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 528:
+INFO:6.421084629575067
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 529:
+INFO:6.421084504427138
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 530:
+INFO:6.421084379865786
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 531:
+INFO:6.42108425588713
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 532:
+INFO:6.421084132487311
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 533:
+INFO:6.421084009662512
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 534:
+INFO:6.421083887408944
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 535:
+INFO:6.421083765722849
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 536:
+INFO:6.421083644600504
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 537:
+INFO:6.421083524038214
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 538:
+INFO:6.421083404032319
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 539:
+INFO:6.421083284579186
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 540:
+INFO:6.421083165675216
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 541:
+INFO:6.421083047316834
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 542:
+INFO:6.421082929500504
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 543:
+INFO:6.421082812222714
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 544:
+INFO:6.4210826954799805
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 545:
+INFO:6.421082579268849
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 546:
+INFO:6.421082463585899
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 547:
+INFO:6.4210823484277295
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 548:
+INFO:6.421082233790977
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 549:
+INFO:6.421082119672299
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 550:
+INFO:6.421082006068381
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 551:
+INFO:6.4210818929759395
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 552:
+INFO:6.421081780391717
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 553:
+INFO:6.421081668312479
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 554:
+INFO:6.421081556735021
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 555:
+INFO:6.421081445656162
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 556:
+INFO:6.421081335072751
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 557:
+INFO:6.421081224981658
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 558:
+INFO:6.421081115379784
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 559:
+INFO:6.421081006264046
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 560:
+INFO:6.4210808976313976
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 561:
+INFO:6.421080789478807
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 562:
+INFO:6.421080681803272
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 563:
+INFO:6.421080574601813
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 564:
+INFO:6.421080467871475
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 565:
+INFO:6.4210803616093255
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 566:
+INFO:6.4210802558124564
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 567:
+INFO:6.421080150477984
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 568:
+INFO:6.421080045603044
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 569:
+INFO:6.421079941184799
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 570:
+INFO:6.4210798372204305
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 571:
+INFO:6.421079733707146
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 572:
+INFO:6.421079630642173
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 573:
+INFO:6.421079528022758
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 574:
+INFO:6.421079425846177
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 575:
+INFO:6.421079324109719
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 576:
+INFO:6.4210792228107
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 577:
+INFO:6.421079121946455
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 578:
+INFO:6.42107902151434
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 579:
+INFO:6.421078921511733
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 580:
+INFO:6.421078821936029
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 581:
+INFO:6.42107872278465
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 582:
+INFO:6.4210786240550295
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 583:
+INFO:6.421078525744624
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 584:
+INFO:6.421078427850915
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 585:
+INFO:6.421078330371397
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 586:
+INFO:6.421078233303587
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 587:
+INFO:6.4210781366450185
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 588:
+INFO:6.421078040393245
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 589:
+INFO:6.421077944545845
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 590:
+INFO:6.421077849100403
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 591:
+INFO:6.421077754054535
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 592:
+INFO:6.421077659405868
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 593:
+INFO:6.4210775651520455
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 594:
+INFO:6.421077471290735
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 595:
+INFO:6.421077377819617
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 596:
+INFO:6.421077284736393
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 597:
+INFO:6.421077192038781
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 598:
+INFO:6.421077099724513
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 599:
+INFO:6.421077007791342
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 600:
+INFO:6.421076916237037
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 601:
+INFO:6.421076825059384
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 602:
+INFO:6.421076734256182
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 603:
+INFO:6.421076643825254
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 604:
+INFO:6.421076553764433
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 605:
+INFO:6.421076464071571
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 606:
+INFO:6.4210763747445325
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 607:
+INFO:6.421076285781205
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 608:
+INFO:6.4210761971794845
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 609:
+INFO:6.421076108937288
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 610:
+INFO:6.421076021052544
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 611:
+INFO:6.421075933523197
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 612:
+INFO:6.42107584634721
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 613:
+INFO:6.421075759522556
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 614:
+INFO:6.42107567304723
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 615:
+INFO:6.421075586919232
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 616:
+INFO:6.421075501136587
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 617:
+INFO:6.4210754156973255
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 618:
+INFO:6.421075330599502
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 619:
+INFO:6.421075245841173
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 620:
+INFO:6.421075161420419
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 621:
+INFO:6.421075077335334
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 622:
+INFO:6.421074993584018
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 623:
+INFO:6.421074910164595
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 624:
+INFO:6.421074827075195
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 625:
+INFO:6.421074744313963
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 626:
+INFO:6.421074661879061
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 627:
+INFO:6.4210745797686615
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 628:
+INFO:6.421074497980949
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 629:
+INFO:6.421074416514124
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 630:
+INFO:6.421074335366398
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 631:
+INFO:6.421074254535994
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 632:
+INFO:6.421074174021152
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 633:
+INFO:6.421074093820121
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 634:
+INFO:6.4210740139311655
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 635:
+INFO:6.42107393435256
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 636:
+INFO:6.421073855082591
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 637:
+INFO:6.421073776119559
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 638:
+INFO:6.4210736974617735
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 639:
+INFO:6.4210736191075615
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 640:
+INFO:6.421073541055257
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 641:
+INFO:6.421073463303206
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 642:
+INFO:6.42107338584977
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 643:
+INFO:6.42107330869332
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 644:
+INFO:6.421073231832233
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 645:
+INFO:6.4210731552649065
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 646:
+INFO:6.421073078989743
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 647:
+INFO:6.421073003005161
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 648:
+INFO:6.421072927309584
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 649:
+INFO:6.421072851901453
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 650:
+INFO:6.421072776779211
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 651:
+INFO:6.421072701941323
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 652:
+INFO:6.421072627386259
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 653:
+INFO:6.421072553112494
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 654:
+INFO:6.421072479118525
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 655:
+INFO:6.4210724054028505
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 656:
+INFO:6.421072331963981
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 657:
+INFO:6.421072258800439
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 658:
+INFO:6.421072185910757
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 659:
+INFO:6.42107211329347
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 660:
+INFO:6.4210720409471325
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 661:
+INFO:6.4210719688703035
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 662:
+INFO:6.421071897061555
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 663:
+INFO:6.421071825519467
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 664:
+INFO:6.421071754242632
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 665:
+INFO:6.42107168322965
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 666:
+INFO:6.421071612479133
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 667:
+INFO:6.421071541989699
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 668:
+INFO:6.42107147175998
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 669:
+INFO:6.421071401788611
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 670:
+INFO:6.421071332074242
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 671:
+INFO:6.421071262615531
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 672:
+INFO:6.421071193411141
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 673:
+INFO:6.4210711244597505
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 674:
+INFO:6.4210710557600414
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 675:
+INFO:6.421070987310708
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 676:
+INFO:6.421070919110449
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 677:
+INFO:6.421070851157977
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 678:
+INFO:6.421070783452011
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 679:
+INFO:6.421070715991276
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 680:
+INFO:6.421070648774511
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 681:
+INFO:6.421070581800457
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 682:
+INFO:6.421070515067867
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 683:
+INFO:6.421070448575505
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 684:
+INFO:6.421070382322135
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 685:
+INFO:6.421070316306541
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 686:
+INFO:6.421070250527501
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 687:
+INFO:6.421070184983813
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 688:
+INFO:6.421070119674276
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 689:
+INFO:6.421070054597701
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 690:
+INFO:6.421069989752905
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 691:
+INFO:6.421069925138711
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 692:
+INFO:6.421069860753953
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 693:
+INFO:6.421069796597469
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 694:
+INFO:6.42106973266811
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 695:
+INFO:6.421069668964728
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 696:
+INFO:6.421069605486188
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 697:
+INFO:6.421069542231361
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 698:
+INFO:6.4210694791991205
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 699:
+INFO:6.421069416388352
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 700:
+INFO:6.42106935379795
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 701:
+INFO:6.421069291426813
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 702:
+INFO:6.421069229273845
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 703:
+INFO:6.4210691673379605
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 704:
+INFO:6.421069105618079
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 705:
+INFO:6.421069044113129
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 706:
+INFO:6.421068982822044
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 707:
+INFO:6.421068921743764
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 708:
+INFO:6.421068860877239
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 709:
+INFO:6.421068800221419
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 710:
+INFO:6.421068739775269
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 711:
+INFO:6.421068679537755
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 712:
+INFO:6.4210686195078495
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 713:
+INFO:6.421068559684539
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 714:
+INFO:6.421068500066804
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 715:
+INFO:6.421068440653642
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 716:
+INFO:6.421068381444051
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 717:
+INFO:6.421068322437038
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 718:
+INFO:6.421068263631618
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 719:
+INFO:6.421068205026805
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 720:
+INFO:6.421068146621629
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 721:
+INFO:6.421068088415118
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 722:
+INFO:6.421068030406308
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 723:
+INFO:6.421067972594245
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 724:
+INFO:6.421067914977979
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 725:
+INFO:6.42106785755656
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 726:
+INFO:6.421067800329054
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 727:
+INFO:6.421067743294527
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 728:
+INFO:6.421067686452051
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 729:
+INFO:6.421067629800702
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 730:
+INFO:6.421067573339567
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 731:
+INFO:6.421067517067735
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 732:
+INFO:6.421067460984302
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 733:
+INFO:6.421067405088369
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 734:
+INFO:6.421067349379042
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 735:
+INFO:6.421067293855432
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 736:
+INFO:6.421067238516659
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 737:
+INFO:6.421067183361844
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 738:
+INFO:6.421067128390117
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 739:
+INFO:6.42106707360061
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 740:
+INFO:6.4210670189924635
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 741:
+INFO:6.421066964564821
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 742:
+INFO:6.421066910316831
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 743:
+INFO:6.421066856247649
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 744:
+INFO:6.421066802356437
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 745:
+INFO:6.421066748642358
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 746:
+INFO:6.421066695104582
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 747:
+INFO:6.421066641742282
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 748:
+INFO:6.421066588554641
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 749:
+INFO:6.421066535540843
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 750:
+INFO:6.421066482700078
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 751:
+INFO:6.421066430031541
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 752:
+INFO:6.421066377534431
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 753:
+INFO:6.421066325207953
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 754:
+INFO:6.421066273051315
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 755:
+INFO:6.421066221063732
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 756:
+INFO:6.4210661692444235
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 757:
+INFO:6.421066117592613
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 758:
+INFO:6.421066066107525
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 759:
+INFO:6.421066014788396
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 760:
+INFO:6.421065963634461
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 761:
+INFO:6.421065912644962
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 762:
+INFO:6.421065861819145
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 763:
+INFO:6.421065811156261
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 764:
+INFO:6.4210657606555674
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 765:
+INFO:6.421065710316318
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 766:
+INFO:6.421065660137781
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 767:
+INFO:6.421065610119225
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 768:
+INFO:6.42106556025992
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 769:
+INFO:6.421065510559143
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 770:
+INFO:6.421065461016177
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 771:
+INFO:6.421065411630306
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 772:
+INFO:6.421065362400822
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 773:
+INFO:6.421065313327014
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 774:
+INFO:6.421065264408184
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 775:
+INFO:6.421065215643631
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 776:
+INFO:6.421065167032663
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 777:
+INFO:6.421065118574587
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 778:
+INFO:6.421065070268721
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 779:
+INFO:6.421065022114382
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 780:
+INFO:6.42106497411089
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 781:
+INFO:6.421064926257571
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 782:
+INFO:6.421064878553758
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 783:
+INFO:6.421064830998782
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 784:
+INFO:6.42106478359198
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 785:
+INFO:6.421064736332697
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 786:
+INFO:6.421064689220275
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 787:
+INFO:6.421064642254063
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 788:
+INFO:6.421064595433416
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 789:
+INFO:6.421064548757687
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 790:
+INFO:6.421064502226239
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 791:
+INFO:6.421064455838434
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 792:
+INFO:6.421064409593641
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 793:
+INFO:6.421064363491229
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 794:
+INFO:6.4210643175305755
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 795:
+INFO:6.421064271711056
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 796:
+INFO:6.421064226032054
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 797:
+INFO:6.421064180492955
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 798:
+INFO:6.421064135093144
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 799:
+INFO:6.421064089832019
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 800:
+INFO:6.421064044708971
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 801:
+INFO:6.4210639997234
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 802:
+INFO:6.421063954874711
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 803:
+INFO:6.4210639101623075
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 804:
+INFO:6.421063865585598
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 805:
+INFO:6.421063821143998
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 806:
+INFO:6.421063776836921
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 807:
+INFO:6.421063732663786
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 808:
+INFO:6.4210636886240176
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 809:
+INFO:6.421063644717037
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 810:
+INFO:6.421063600942279
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 811:
+INFO:6.4210635572991706
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 812:
+INFO:6.42106351378715
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 813:
+INFO:6.421063470405653
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 814:
+INFO:6.421063427154123
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 815:
+INFO:6.421063384032005
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 816:
+INFO:6.421063341038743
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 817:
+INFO:6.4210632981737925
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 818:
+INFO:6.4210632554366045
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 819:
+INFO:6.421063212826636
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 820:
+INFO:6.421063170343347
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 821:
+INFO:6.4210631279862005
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 822:
+INFO:6.421063085754662
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 823:
+INFO:6.421063043648198
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 824:
+INFO:6.421063001666286
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 825:
+INFO:6.421062959808394
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 826:
+INFO:6.421062918074003
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 827:
+INFO:6.4210628764625906
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 828:
+INFO:6.421062834973643
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 829:
+INFO:6.4210627936066444
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 830:
+INFO:6.421062752361082
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 831:
+INFO:6.42106271123645
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 832:
+INFO:6.421062670232242
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 833:
+INFO:6.421062629347954
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 834:
+INFO:6.421062588583086
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 835:
+INFO:6.42106254793714
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 836:
+INFO:6.421062507409622
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 837:
+INFO:6.421062467000039
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 838:
+INFO:6.421062426707903
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 839:
+INFO:6.421062386532725
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 840:
+INFO:6.421062346474023
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 841:
+INFO:6.421062306531314
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 842:
+INFO:6.4210622667041175
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 843:
+INFO:6.421062226991959
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 844:
+INFO:6.421062187394365
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 845:
+INFO:6.421062147910862
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 846:
+INFO:6.421062108540984
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 847:
+INFO:6.421062069284261
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 848:
+INFO:6.421062030140232
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 849:
+INFO:6.421061991108434
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 850:
+INFO:6.421061952188411
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 851:
+INFO:6.421061913379702
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 852:
+INFO:6.421061874681855
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 853:
+INFO:6.4210618360944185
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 854:
+INFO:6.421061797616944
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 855:
+INFO:6.421061759248983
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 856:
+INFO:6.421061720990092
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 857:
+INFO:6.421061682839829
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 858:
+INFO:6.421061644797753
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 859:
+INFO:6.421061606863427
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 860:
+INFO:6.421061569036416
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 861:
+INFO:6.421061531316286
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 862:
+INFO:6.4210614937026085
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 863:
+INFO:6.421061456194952
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 864:
+INFO:6.421061418792894
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 865:
+INFO:6.421061381496007
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 866:
+INFO:6.421061344303872
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 867:
+INFO:6.4210613072160685
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 868:
+INFO:6.421061270232178
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 869:
+INFO:6.421061233351788
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 870:
+INFO:6.421061196574482
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 871:
+INFO:6.4210611598998515
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 872:
+INFO:6.421061123327487
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 873:
+INFO:6.421061086856983
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 874:
+INFO:6.421061050487933
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 875:
+INFO:6.421061014219937
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 876:
+INFO:6.421060978052591
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 877:
+INFO:6.421060941985501
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 878:
+INFO:6.421060906018267
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 879:
+INFO:6.421060870150496
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 880:
+INFO:6.421060834381798
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 881:
+INFO:6.421060798711781
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 882:
+INFO:6.421060763140057
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 883:
+INFO:6.421060727666238
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 884:
+INFO:6.421060692289943
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 885:
+INFO:6.4210606570107895
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 886:
+INFO:6.421060621828393
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 887:
+INFO:6.421060586742381
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 888:
+INFO:6.4210605517523724
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 889:
+INFO:6.421060516857995
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 890:
+INFO:6.421060482058876
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 891:
+INFO:6.421060447354644
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 892:
+INFO:6.4210604127449304
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 893:
+INFO:6.421060378229368
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 894:
+INFO:6.421060343807592
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 895:
+INFO:6.421060309479239
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 896:
+INFO:6.421060275243948
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 897:
+INFO:6.421060241101359
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 898:
+INFO:6.421060207051114
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 899:
+INFO:6.421060173092857
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 900:
+INFO:6.421060139226233
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 901:
+INFO:6.421060105450892
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 902:
+INFO:6.421060071766481
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 903:
+INFO:6.421060038172652
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 904:
+INFO:6.421060004669058
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 905:
+INFO:6.421059971255351
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 906:
+INFO:6.421059937931192
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 907:
+INFO:6.421059904696235
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 908:
+INFO:6.421059871550141
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 909:
+INFO:6.421059838492572
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 910:
+INFO:6.421059805523189
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 911:
+INFO:6.42105977264166
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 912:
+INFO:6.421059739847648
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 913:
+INFO:6.421059707140824
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 914:
+INFO:6.421059674520853
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 915:
+INFO:6.421059641987413
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 916:
+INFO:6.421059609540172
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 917:
+INFO:6.421059577178807
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 918:
+INFO:6.421059544902991
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 919:
+INFO:6.4210595127124055
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 920:
+INFO:6.421059480606727
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 921:
+INFO:6.421059448585637
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 922:
+INFO:6.42105941664882
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 923:
+INFO:6.421059384795958
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 924:
+INFO:6.421059353026736
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 925:
+INFO:6.4210593213408425
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 926:
+INFO:6.421059289737965
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 927:
+INFO:6.421059258217794
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 928:
+INFO:6.421059226780024
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 929:
+INFO:6.421059195424341
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 930:
+INFO:6.421059164150446
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 931:
+INFO:6.421059132958033
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 932:
+INFO:6.421059101846798
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 933:
+INFO:6.421059070816443
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 934:
+INFO:6.421059039866667
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 935:
+INFO:6.421059008997172
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 936:
+INFO:6.421058978207661
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 937:
+INFO:6.42105894749784
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 938:
+INFO:6.421058916867412
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 939:
+INFO:6.4210588863160885
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 940:
+INFO:6.421058855843578
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 941:
+INFO:6.421058825449588
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 942:
+INFO:6.421058795133834
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 943:
+INFO:6.421058764896026
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 944:
+INFO:6.4210587347358805
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 945:
+INFO:6.421058704653112
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 946:
+INFO:6.421058674647441
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 947:
+INFO:6.421058644718582
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 948:
+INFO:6.42105861486626
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 949:
+INFO:6.421058585090191
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 950:
+INFO:6.421058555390099
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 951:
+INFO:6.421058525765709
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 952:
+INFO:6.421058496216747
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 953:
+INFO:6.421058466742938
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 954:
+INFO:6.421058437344011
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 955:
+INFO:6.421058408019694
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 956:
+INFO:6.421058378769718
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 957:
+INFO:6.421058349593815
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 958:
+INFO:6.421058320491718
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 959:
+INFO:6.42105829146316
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 960:
+INFO:6.421058262507877
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 961:
+INFO:6.421058233625606
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 962:
+INFO:6.421058204816086
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 963:
+INFO:6.421058176079054
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 964:
+INFO:6.421058147414251
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 965:
+INFO:6.42105811882142
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 966:
+INFO:6.421058090300302
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 967:
+INFO:6.421058061850641
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 968:
+INFO:6.421058033472185
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 969:
+INFO:6.421058005164676
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 970:
+INFO:6.421057976927865
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 971:
+INFO:6.4210579487615
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 972:
+INFO:6.421057920665329
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 973:
+INFO:6.421057892639105
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 974:
+INFO:6.42105786468258
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 975:
+INFO:6.421057836795505
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 976:
+INFO:6.421057808977639
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 977:
+INFO:6.421057781228734
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 978:
+INFO:6.421057753548548
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 979:
+INFO:6.421057725936838
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 980:
+INFO:6.421057698393366
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 981:
+INFO:6.421057670917887
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 982:
+INFO:6.421057643510165
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 983:
+INFO:6.421057616169963
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 984:
+INFO:6.421057588897043
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 985:
+INFO:6.421057561691169
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 986:
+INFO:6.42105753455211
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 987:
+INFO:6.4210575074796274
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 988:
+INFO:6.421057480473492
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 989:
+INFO:6.421057453533473
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 990:
+INFO:6.421057426659338
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 991:
+INFO:6.421057399850859
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 992:
+INFO:6.421057373107809
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 993:
+INFO:6.421057346429959
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 994:
+INFO:6.421057319817082
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 995:
+INFO:6.421057293268956
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 996:
+INFO:6.421057266785355
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 997:
+INFO:6.421057240366057
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 998:
+INFO:6.421057214010837
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 999:
+INFO:6.4210571877194775
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1000:
+INFO:6.421057161491758
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1010:
+INFO:6.421056902666993
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1020:
+INFO:6.421056649971249
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1030:
+INFO:6.421056403200026
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1040:
+INFO:6.421056162157632
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1050:
+INFO:6.4210559266567255
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1060:
+INFO:6.421055696517872
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1070:
+INFO:6.4210554715691295
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1080:
+INFO:6.42105525164567
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1090:
+INFO:6.421055036589429
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1100:
+INFO:6.4210548262487706
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1110:
+INFO:6.421054620478156
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1120:
+INFO:6.421054419137826
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1130:
+INFO:6.421054222093522
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1140:
+INFO:6.421054029216233
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1150:
+INFO:6.421053840381937
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1160:
+INFO:6.421053655471369
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1170:
+INFO:6.421053474369797
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1180:
+INFO:6.421053296966811
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1190:
+INFO:6.421053123156117
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1200:
+INFO:6.4210529528353595
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1210:
+INFO:6.421052785905938
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1220:
+INFO:6.421052622272878
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1230:
+INFO:6.421052461844619
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1240:
+INFO:6.421052304532839
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1250:
+INFO:6.421052150252365
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1260:
+INFO:6.421051998921022
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1270:
+INFO:6.421051850459516
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1280:
+INFO:6.4210517047913
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1290:
+INFO:6.4210515618424555
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1300:
+INFO:6.421051421541588
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1310:
+INFO:6.421051283819729
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1320:
+INFO:6.421051148610214
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1330:
+INFO:6.4210510158486125
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1340:
+INFO:6.421050885472611
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1350:
+INFO:6.421050757421943
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1360:
+INFO:6.421050631638308
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1370:
+INFO:6.421050508065283
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1380:
+INFO:6.421050386648266
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1390:
+INFO:6.42105026733439
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1400:
+INFO:6.42105015007246
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1410:
+INFO:6.421050034812894
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1420:
+INFO:6.421049921507652
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1430:
+INFO:6.421049810110186
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1440:
+INFO:6.421049700575375
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1450:
+INFO:6.421049592859479
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1460:
+INFO:6.421049486920087
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1470:
+INFO:6.42104938271606
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1480:
+INFO:6.421049280207485
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1490:
+INFO:6.421049179355639
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1500:
+INFO:6.421049080122934
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1510:
+INFO:6.421048982472885
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1520:
+INFO:6.421048886370062
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1530:
+INFO:6.421048791780062
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1540:
+INFO:6.4210486986694635
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1550:
+INFO:6.421048607005802
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1560:
+INFO:6.421048516757525
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1570:
+INFO:6.4210484278939735
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1580:
+INFO:6.421048340385348
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1590:
+INFO:6.421048254202673
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1600:
+INFO:6.421048169317771
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1610:
+INFO:6.421048085703243
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1620:
+INFO:6.421048003332438
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1630:
+INFO:6.421047922179429
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1640:
+INFO:6.421047842218989
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1650:
+INFO:6.421047763426561
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1660:
+INFO:6.42104768577825
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1670:
+INFO:6.421047609250787
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1680:
+INFO:6.42104753382152
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1690:
+INFO:6.421047459468388
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1700:
+INFO:6.421047386169899
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1710:
+INFO:6.421047313905123
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1720:
+INFO:6.42104724265366
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1730:
+INFO:6.42104717239563
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1740:
+INFO:6.421047103111667
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1750:
+INFO:6.421047034782885
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1760:
+INFO:6.421046967390872
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1770:
+INFO:6.421046900917674
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1780:
+INFO:6.421046835345778
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1790:
+INFO:6.421046770658104
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1800:
+INFO:6.421046706837991
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1810:
+INFO:6.421046643869183
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1820:
+INFO:6.421046581735822
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1830:
+INFO:6.421046520422424
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1840:
+INFO:6.421046459913883
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1850:
+INFO:6.421046400195445
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1860:
+INFO:6.4210463412527155
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1870:
+INFO:6.42104628307163
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1880:
+INFO:6.42104622563846
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1890:
+INFO:6.421046168939795
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1900:
+INFO:6.421046112962532
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1910:
+INFO:6.421046057693871
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1920:
+INFO:6.421046003121306
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1930:
+INFO:6.421045949232616
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1940:
+INFO:6.421045896015858
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1950:
+INFO:6.421045843459357
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1960:
+INFO:6.421045791551694
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1970:
+INFO:6.421045740281709
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1980:
+INFO:6.42104568963848
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 1990:
+INFO:6.421045639611337
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2000:
+INFO:6.42104559018984
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2010:
+INFO:6.421045541363779
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2020:
+INFO:6.421045493123167
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2030:
+INFO:6.421045445458235
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2040:
+INFO:6.42104539835942
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2050:
+INFO:6.421045351817367
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2060:
+INFO:6.42104530582292
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2070:
+INFO:6.4210452603671175
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2080:
+INFO:6.421045215441186
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2090:
+INFO:6.421045171036536
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2100:
+INFO:6.421045127144757
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2110:
+INFO:6.421045083757616
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2120:
+INFO:6.421045040867048
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2130:
+INFO:6.421044998465152
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2140:
+INFO:6.421044956544194
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2150:
+INFO:6.421044915096595
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2160:
+INFO:6.421044874114929
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2170:
+INFO:6.421044833591922
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2180:
+INFO:6.421044793520444
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2190:
+INFO:6.421044753893511
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2200:
+INFO:6.421044714704275
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2210:
+INFO:6.421044675946024
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2220:
+INFO:6.421044637612181
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2230:
+INFO:6.421044599696296
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2240:
+INFO:6.421044562192045
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2250:
+INFO:6.421044525093228
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2260:
+INFO:6.421044488393766
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2270:
+INFO:6.421044452087696
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2280:
+INFO:6.421044416169171
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2290:
+INFO:6.4210443806324555
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2300:
+INFO:6.42104434547192
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2310:
+INFO:6.421044310682046
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2320:
+INFO:6.421044276257418
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2330:
+INFO:6.421044242192721
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2340:
+INFO:6.421044208482742
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2350:
+INFO:6.421044175122362
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2360:
+INFO:6.421044142106555
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2370:
+INFO:6.421044109430393
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2380:
+INFO:6.421044077089033
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2390:
+INFO:6.421044045077725
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2400:
+INFO:6.421044013391802
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2410:
+INFO:6.421043982026686
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2420:
+INFO:6.421043950977878
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2430:
+INFO:6.421043920240963
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2440:
+INFO:6.421043889811602
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2450:
+INFO:6.421043859685537
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2460:
+INFO:6.421043829858584
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2470:
+INFO:6.421043800326633
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2480:
+INFO:6.421043771085648
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2490:
+INFO:6.421043742131662
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2500:
+INFO:6.4210437134607785
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2510:
+INFO:6.42104368506917
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2520:
+INFO:6.421043656953072
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2530:
+INFO:6.421043629108791
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2540:
+INFO:6.421043601532691
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2550:
+INFO:6.421043574221202
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2560:
+INFO:6.421043547170814
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2570:
+INFO:6.4210435203780785
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2580:
+INFO:6.421043493839603
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2590:
+INFO:6.421043467552052
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2600:
+INFO:6.4210434415121505
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2610:
+INFO:6.421043415716672
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2620:
+INFO:6.421043390162448
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2630:
+INFO:6.421043364846362
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2640:
+INFO:6.421043339765348
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2650:
+INFO:6.421043314916394
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2660:
+INFO:6.421043290296532
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2670:
+INFO:6.421043265902846
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2680:
+INFO:6.42104324173247
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2690:
+INFO:6.421043217782577
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2700:
+INFO:6.421043194050395
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2710:
+INFO:6.421043170533192
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2720:
+INFO:6.421043147228276
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2730:
+INFO:6.421043124133006
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2740:
+INFO:6.421043101244777
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2750:
+INFO:6.421043078561031
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2760:
+INFO:6.421043056079244
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2770:
+INFO:6.421043033796935
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2780:
+INFO:6.421043011711664
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2790:
+INFO:6.421042989821025
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2800:
+INFO:6.421042968122652
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2810:
+INFO:6.421042946614216
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2820:
+INFO:6.421042925293421
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2830:
+INFO:6.4210429041580115
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2840:
+INFO:6.421042883205761
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2850:
+INFO:6.421042862434485
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2860:
+INFO:6.421042841842023
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2870:
+INFO:6.421042821426252
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2880:
+INFO:6.421042801185085
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2890:
+INFO:6.421042781116462
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2900:
+INFO:6.421042761218354
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2910:
+INFO:6.421042741488763
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2920:
+INFO:6.421042721925721
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2930:
+INFO:6.421042702527293
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2940:
+INFO:6.421042683291567
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2950:
+INFO:6.421042664216665
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2960:
+INFO:6.421042645300729
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2970:
+INFO:6.421042626541936
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2980:
+INFO:6.421042607938488
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 2990:
+INFO:6.421042589488606
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3000:
+INFO:6.421042571190551
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3010:
+INFO:6.421042553042596
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3020:
+INFO:6.421042535043046
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3030:
+INFO:6.4210425171902274
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3040:
+INFO:6.421042499482492
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3050:
+INFO:6.421042481918216
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3060:
+INFO:6.421042464495798
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3070:
+INFO:6.421042447213658
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3080:
+INFO:6.4210424300702424
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3090:
+INFO:6.421042413064012
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3100:
+INFO:6.421042396193459
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3110:
+INFO:6.421042379457092
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3120:
+INFO:6.421042362853436
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3130:
+INFO:6.421042346381044
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3140:
+INFO:6.421042330038486
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3150:
+INFO:6.421042313824348
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3160:
+INFO:6.421042297737242
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3170:
+INFO:6.421042281775791
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3180:
+INFO:6.4210422659386435
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3190:
+INFO:6.421042250224467
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3200:
+INFO:6.421042234631943
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3210:
+INFO:6.421042219159776
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3220:
+INFO:6.421042203806683
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3230:
+INFO:6.421042188571402
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3240:
+INFO:6.421042173452687
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3250:
+INFO:6.421042158449311
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3260:
+INFO:6.421042143560057
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3270:
+INFO:6.421042128783734
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3280:
+INFO:6.421042114119156
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3290:
+INFO:6.421042099565161
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3300:
+INFO:6.4210420851206
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3310:
+INFO:6.421042070784337
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3320:
+INFO:6.4210420565552555
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3330:
+INFO:6.421042042432248
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3340:
+INFO:6.421042028414226
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3350:
+INFO:6.421042014500114
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3360:
+INFO:6.421042000688848
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3370:
+INFO:6.421041986979382
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3380:
+INFO:6.421041973370682
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3390:
+INFO:6.421041959861724
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3400:
+INFO:6.421041946451501
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3410:
+INFO:6.42104193313902
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3420:
+INFO:6.421041919923294
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3430:
+INFO:6.421041906803356
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3440:
+INFO:6.4210418937782485
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3450:
+INFO:6.421041880847025
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3460:
+INFO:6.4210418680087535
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3470:
+INFO:6.42104185526251
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3480:
+INFO:6.421041842607387
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3490:
+INFO:6.4210418300424825
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3500:
+INFO:6.421041817566911
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3510:
+INFO:6.4210418051797955
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3520:
+INFO:6.421041792880271
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3530:
+INFO:6.421041780667483
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3540:
+INFO:6.421041768540586
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3550:
+INFO:6.421041756498746
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3560:
+INFO:6.42104174454114
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3570:
+INFO:6.4210417326669535
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3580:
+INFO:6.421041720875386
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3590:
+INFO:6.421041709165639
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3600:
+INFO:6.421041697536932
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3610:
+INFO:6.421041685988489
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3620:
+INFO:6.421041674519544
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3630:
+INFO:6.421041663129343
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3640:
+INFO:6.421041651817137
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3650:
+INFO:6.42104164058219
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3660:
+INFO:6.42104162942377
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3670:
+INFO:6.4210416183411585
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3680:
+INFO:6.421041607333645
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3690:
+INFO:6.421041596400523
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3700:
+INFO:6.4210415855411
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3710:
+INFO:6.421041574754687
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3720:
+INFO:6.421041564040608
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3730:
+INFO:6.421041553398189
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3740:
+INFO:6.42104154282677
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3750:
+INFO:6.4210415323256935
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3760:
+INFO:6.421041521894313
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3770:
+INFO:6.421041511531991
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3780:
+INFO:6.421041501238092
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3790:
+INFO:6.421041491011989
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3800:
+INFO:6.421041480853068
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3810:
+INFO:6.421041470760718
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3820:
+INFO:6.421041460734333
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3830:
+INFO:6.421041450773319
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3840:
+INFO:6.421041440877081
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3850:
+INFO:6.42104143104504
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3860:
+INFO:6.421041421276618
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3870:
+INFO:6.421041411571247
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3880:
+INFO:6.421041401928359
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3890:
+INFO:6.421041392347401
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3900:
+INFO:6.421041382827818
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3910:
+INFO:6.421041373369068
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3920:
+INFO:6.4210413639706125
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3930:
+INFO:6.421041354631917
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3940:
+INFO:6.421041345352455
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3950:
+INFO:6.421041336131707
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3960:
+INFO:6.421041326969158
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3970:
+INFO:6.421041317864299
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3980:
+INFO:6.421041308816624
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 3990:
+INFO:6.421041299825637
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4000:
+INFO:6.4210412908908445
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4010:
+INFO:6.42104128201176
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4020:
+INFO:6.421041273187903
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4030:
+INFO:6.421041264418794
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4040:
+INFO:6.421041255703964
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4050:
+INFO:6.421041247042946
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4060:
+INFO:6.421041238435278
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4070:
+INFO:6.421041229880506
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4080:
+INFO:6.421041221378176
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4090:
+INFO:6.421041212927845
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4100:
+INFO:6.421041204529068
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4110:
+INFO:6.42104119618141
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4120:
+INFO:6.421041187884441
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4130:
+INFO:6.4210411796377285
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4140:
+INFO:6.421041171440855
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4150:
+INFO:6.421041163293398
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4160:
+INFO:6.421041155194947
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4170:
+INFO:6.421041147145089
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4180:
+INFO:6.421041139143422
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4190:
+INFO:6.421041131189542
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4200:
+INFO:6.421041123283054
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4210:
+INFO:6.4210411154235665
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4220:
+INFO:6.421041107610689
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4230:
+INFO:6.421041099844041
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4240:
+INFO:6.421041092123238
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4250:
+INFO:6.421041084447905
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4260:
+INFO:6.42104107681767
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4270:
+INFO:6.4210410692321656
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4280:
+INFO:6.421041061691025
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4290:
+INFO:6.42104105419389
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4300:
+INFO:6.421041046740401
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4310:
+INFO:6.421041039330206
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4320:
+INFO:6.421041031962956
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4330:
+INFO:6.421041024638302
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4340:
+INFO:6.421041017355903
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4350:
+INFO:6.42104101011542
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4360:
+INFO:6.4210410029165175
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4370:
+INFO:6.421040995758863
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4380:
+INFO:6.421040988642126
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4390:
+INFO:6.421040981565983
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4400:
+INFO:6.4210409745301105
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4410:
+INFO:6.421040967534191
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4420:
+INFO:6.421040960577908
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4430:
+INFO:6.421040953660947
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4440:
+INFO:6.421040946782999
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4450:
+INFO:6.421040939943761
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4460:
+INFO:6.421040933142926
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4470:
+INFO:6.421040926380195
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4480:
+INFO:6.4210409196552725
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4490:
+INFO:6.421040912967861
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4500:
+INFO:6.42104090631767
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4510:
+INFO:6.421040899704411
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4520:
+INFO:6.421040893127801
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4530:
+INFO:6.4210408865875515
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4540:
+INFO:6.421040880083386
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4550:
+INFO:6.421040873615028
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4560:
+INFO:6.421040867182202
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4570:
+INFO:6.4210408607846325
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4580:
+INFO:6.421040854422056
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4590:
+INFO:6.4210408480942025
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4600:
+INFO:6.421040841800808
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4610:
+INFO:6.421040835541611
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4620:
+INFO:6.421040829316353
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4630:
+INFO:6.421040823124777
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4640:
+INFO:6.421040816966629
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4650:
+INFO:6.421040810841657
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4660:
+INFO:6.4210408047496115
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4670:
+INFO:6.421040798690246
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4680:
+INFO:6.421040792663317
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4690:
+INFO:6.421040786668583
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4700:
+INFO:6.4210407807058
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4710:
+INFO:6.421040774774736
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4720:
+INFO:6.42104076887515
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4730:
+INFO:6.421040763006812
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4740:
+INFO:6.421040757169493
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4750:
+INFO:6.421040751362961
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4760:
+INFO:6.421040745586989
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4770:
+INFO:6.421040739841357
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4780:
+INFO:6.421040734125837
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4790:
+INFO:6.421040728440213
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4800:
+INFO:6.421040722784264
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4810:
+INFO:6.4210407171577755
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4820:
+INFO:6.421040711560531
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4830:
+INFO:6.421040705992322
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4840:
+INFO:6.421040700452935
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4850:
+INFO:6.421040694942163
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4860:
+INFO:6.4210406894598
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4870:
+INFO:6.421040684005638
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4880:
+INFO:6.42104067857948
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4890:
+INFO:6.421040673181122
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4900:
+INFO:6.421040667810364
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4910:
+INFO:6.421040662467011
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4920:
+INFO:6.421040657150868
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4930:
+INFO:6.42104065186174
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4940:
+INFO:6.421040646599433
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4950:
+INFO:6.421040641363763
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4960:
+INFO:6.421040636154536
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4970:
+INFO:6.421040630971566
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4980:
+INFO:6.421040625814672
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 4990:
+INFO:6.421040620683665
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5000:
+INFO:6.421040615578366
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5010:
+INFO:6.421040610498593
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5020:
+INFO:6.421040605444169
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5030:
+INFO:6.421040600414917
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5040:
+INFO:6.42104059541066
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5050:
+INFO:6.421040590431224
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5060:
+INFO:6.4210405854764385
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5070:
+INFO:6.42104058054613
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5080:
+INFO:6.421040575640131
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5090:
+INFO:6.421040570758272
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5100:
+INFO:6.421040565900387
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5110:
+INFO:6.421040561066312
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5120:
+INFO:6.421040556255884
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5130:
+INFO:6.4210405514689395
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5140:
+INFO:6.421040546705317
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5150:
+INFO:6.421040541964859
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5160:
+INFO:6.421040537247408
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5170:
+INFO:6.421040532552806
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5180:
+INFO:6.421040527880898
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5190:
+INFO:6.4210405232315315
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5200:
+INFO:6.421040518604553
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5210:
+INFO:6.421040513999811
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5220:
+INFO:6.421040509417157
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5230:
+INFO:6.421040504856442
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5240:
+INFO:6.421040500317518
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5250:
+INFO:6.421040495800239
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5260:
+INFO:6.421040491304462
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5270:
+INFO:6.421040486830041
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5280:
+INFO:6.421040482376834
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5290:
+INFO:6.421040477944703
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5300:
+INFO:6.4210404735335045
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5310:
+INFO:6.421040469143101
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5320:
+INFO:6.421040464773354
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5330:
+INFO:6.4210404604241305
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5340:
+INFO:6.421040456095293
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5350:
+INFO:6.421040451786706
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5360:
+INFO:6.42104044749824
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5370:
+INFO:6.421040443229759
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5380:
+INFO:6.4210404389811355
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5390:
+INFO:6.421040434752239
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5400:
+INFO:6.42104043054294
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5410:
+INFO:6.4210404263531125
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5420:
+INFO:6.421040422182629
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5430:
+INFO:6.421040418031364
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5440:
+INFO:6.4210404138991946
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5450:
+INFO:6.421040409785994
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5460:
+INFO:6.421040405691644
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5470:
+INFO:6.421040401616023
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5480:
+INFO:6.421040397559007
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5490:
+INFO:6.42104039352048
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5500:
+INFO:6.421040389500322
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5510:
+INFO:6.421040385498416
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5520:
+INFO:6.421040381514647
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5530:
+INFO:6.421040377548898
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5540:
+INFO:6.4210403736010555
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5550:
+INFO:6.421040369671004
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5560:
+INFO:6.421040365758632
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5570:
+INFO:6.421040361863829
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5580:
+INFO:6.421040357986484
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5590:
+INFO:6.421040354126482
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5600:
+INFO:6.421040350283722
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5610:
+INFO:6.42104034645809
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5620:
+INFO:6.421040342649482
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5630:
+INFO:6.421040338857788
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5640:
+INFO:6.421040335082905
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5650:
+INFO:6.421040331324729
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5660:
+INFO:6.421040327583154
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5670:
+INFO:6.421040323858077
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5680:
+INFO:6.421040320149396
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5690:
+INFO:6.4210403164570105
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5700:
+INFO:6.4210403127808195
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5710:
+INFO:6.421040309120723
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5720:
+INFO:6.42104030547662
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5730:
+INFO:6.421040301848414
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5740:
+INFO:6.421040298236007
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5750:
+INFO:6.421040294639303
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5760:
+INFO:6.421040291058205
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5770:
+INFO:6.421040287492616
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5780:
+INFO:6.421040283942445
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5790:
+INFO:6.4210402804075954
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5800:
+INFO:6.421040276887976
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5810:
+INFO:6.421040273383493
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5820:
+INFO:6.421040269894055
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5830:
+INFO:6.421040266419572
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5840:
+INFO:6.421040262959954
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5850:
+INFO:6.4210402595151095
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5860:
+INFO:6.421040256084951
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5870:
+INFO:6.421040252669391
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5880:
+INFO:6.42104024926834
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5890:
+INFO:6.421040245881712
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5900:
+INFO:6.421040242509423
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5910:
+INFO:6.421040239151385
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5920:
+INFO:6.421040235807514
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5930:
+INFO:6.421040232477726
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5940:
+INFO:6.421040229161938
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5950:
+INFO:6.421040225860065
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5960:
+INFO:6.421040222572027
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5970:
+INFO:6.421040219297741
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5980:
+INFO:6.421040216037128
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 5990:
+INFO:6.421040212790104
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6000:
+INFO:6.421040209556593
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6010:
+INFO:6.421040206336513
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6020:
+INFO:6.421040203129787
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6030:
+INFO:6.421040199936336
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6040:
+INFO:6.421040196756084
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6050:
+INFO:6.421040193588952
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6060:
+INFO:6.421040190434865
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6070:
+INFO:6.421040187293746
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6080:
+INFO:6.421040184165523
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6090:
+INFO:6.4210401810501185
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6100:
+INFO:6.421040177947459
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6110:
+INFO:6.421040174857471
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6120:
+INFO:6.421040171780083
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6130:
+INFO:6.421040168715222
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6140:
+INFO:6.421040165662814
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6150:
+INFO:6.4210401626227895
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6160:
+INFO:6.421040159595078
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6170:
+INFO:6.4210401565796085
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6180:
+INFO:6.421040153576311
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6190:
+INFO:6.4210401505851165
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6200:
+INFO:6.421040147605957
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6210:
+INFO:6.421040144638762
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6220:
+INFO:6.4210401416834655
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6230:
+INFO:6.4210401387400005
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6240:
+INFO:6.421040135808299
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6250:
+INFO:6.4210401328882964
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6260:
+INFO:6.421040129979924
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6270:
+INFO:6.42104012708312
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6280:
+INFO:6.421040124197815
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6290:
+INFO:6.42104012132395
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6300:
+INFO:6.421040118461455
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6310:
+INFO:6.421040115610273
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6320:
+INFO:6.4210401127703385
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6330:
+INFO:6.421040109941587
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6340:
+INFO:6.421040107123957
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6350:
+INFO:6.421040104317387
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6360:
+INFO:6.421040101521818
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6370:
+INFO:6.421040098737187
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6380:
+INFO:6.421040095963433
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6390:
+INFO:6.4210400932004985
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6400:
+INFO:6.421040090448322
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6410:
+INFO:6.421040087706846
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6420:
+INFO:6.42104008497601
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6430:
+INFO:6.421040082255755
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6440:
+INFO:6.421040079546027
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6450:
+INFO:6.421040076846766
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6460:
+INFO:6.421040074157914
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6470:
+INFO:6.421040071479416
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6480:
+INFO:6.421040068811216
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6490:
+INFO:6.421040066153257
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6500:
+INFO:6.421040063505483
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6510:
+INFO:6.42104006086784
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6520:
+INFO:6.421040058240274
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6530:
+INFO:6.421040055622728
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6540:
+INFO:6.42104005301515
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6550:
+INFO:6.421040050417487
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6560:
+INFO:6.421040047829685
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6570:
+INFO:6.421040045251689
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6580:
+INFO:6.421040042683448
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6590:
+INFO:6.421040040124911
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6600:
+INFO:6.4210400375760255
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6610:
+INFO:6.421040035036741
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6620:
+INFO:6.421040032507005
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6630:
+INFO:6.4210400299867665
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6640:
+INFO:6.421040027475977
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6650:
+INFO:6.421040024974583
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6660:
+INFO:6.421040022482539
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6670:
+INFO:6.421040019999794
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6680:
+INFO:6.421040017526298
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6690:
+INFO:6.421040015062005
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6700:
+INFO:6.421040012606864
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6710:
+INFO:6.421040010160827
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6720:
+INFO:6.421040007723849
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6730:
+INFO:6.421040005295879
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6740:
+INFO:6.421040002876872
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6750:
+INFO:6.421040000466782
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6760:
+INFO:6.421039998065561
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6770:
+INFO:6.421039995673165
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6780:
+INFO:6.421039993289546
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6790:
+INFO:6.421039990914659
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6800:
+INFO:6.42103998854846
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6810:
+INFO:6.421039986190903
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6820:
+INFO:6.421039983841943
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6830:
+INFO:6.421039981501539
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6840:
+INFO:6.421039979169642
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6850:
+INFO:6.421039976846211
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6860:
+INFO:6.421039974531205
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6870:
+INFO:6.421039972224576
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6880:
+INFO:6.421039969926285
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6890:
+INFO:6.421039967636286
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6900:
+INFO:6.421039965354541
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6910:
+INFO:6.421039963081005
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6920:
+INFO:6.421039960815635
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6930:
+INFO:6.421039958558395
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6940:
+INFO:6.421039956309239
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6950:
+INFO:6.421039954068127
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6960:
+INFO:6.42103995183502
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6970:
+INFO:6.421039949609875
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6980:
+INFO:6.4210399473926545
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 6990:
+INFO:6.421039945183318
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7000:
+INFO:6.421039942981825
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7010:
+INFO:6.421039940788137
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7020:
+INFO:6.421039938602214
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7030:
+INFO:6.421039936424019
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7040:
+INFO:6.421039934253511
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7050:
+INFO:6.421039932090655
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7060:
+INFO:6.421039929935409
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7070:
+INFO:6.421039927787739
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7080:
+INFO:6.421039925647603
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7090:
+INFO:6.421039923514969
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7100:
+INFO:6.421039921389795
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7110:
+INFO:6.421039919272048
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7120:
+INFO:6.421039917161688
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7130:
+INFO:6.421039915058681
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7140:
+INFO:6.421039912962989
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7150:
+INFO:6.421039910874578
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7160:
+INFO:6.421039908793411
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7170:
+INFO:6.421039906719455
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7180:
+INFO:6.42103990465267
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7190:
+INFO:6.421039902593024
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7200:
+INFO:6.421039900540483
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7210:
+INFO:6.421039898495009
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7220:
+INFO:6.421039896456572
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7230:
+INFO:6.421039894425134
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7240:
+INFO:6.421039892400664
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7250:
+INFO:6.421039890383128
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7260:
+INFO:6.421039888372488
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7270:
+INFO:6.421039886368718
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7280:
+INFO:6.421039884371778
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7290:
+INFO:6.42103988238164
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7300:
+INFO:6.4210398803982685
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7310:
+INFO:6.421039878421633
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7320:
+INFO:6.421039876451699
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7330:
+INFO:6.421039874488437
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7340:
+INFO:6.4210398725318125
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7350:
+INFO:6.421039870581795
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7360:
+INFO:6.421039868638353
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7370:
+INFO:6.421039866701456
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7380:
+INFO:6.42103986477107
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7390:
+INFO:6.421039862847168
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7400:
+INFO:6.4210398609297155
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7410:
+INFO:6.421039859018686
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7420:
+INFO:6.421039857114046
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7430:
+INFO:6.421039855215764
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7440:
+INFO:6.421039853323814
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7450:
+INFO:6.421039851438163
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7460:
+INFO:6.421039849558785
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7470:
+INFO:6.421039847685645
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7480:
+INFO:6.4210398458187194
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7490:
+INFO:6.421039843957974
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7500:
+INFO:6.421039842103385
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7510:
+INFO:6.421039840254919
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7520:
+INFO:6.4210398384125495
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7530:
+INFO:6.421039836576249
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7540:
+INFO:6.421039834745987
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7550:
+INFO:6.421039832921738
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7560:
+INFO:6.421039831103473
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7570:
+INFO:6.4210398292911615
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7580:
+INFO:6.421039827484781
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7590:
+INFO:6.421039825684301
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7600:
+INFO:6.421039823889695
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7610:
+INFO:6.421039822100934
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7620:
+INFO:6.421039820317994
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7630:
+INFO:6.421039818540847
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7640:
+INFO:6.421039816769468
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7650:
+INFO:6.421039815003828
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7660:
+INFO:6.421039813243901
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7670:
+INFO:6.421039811489663
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7680:
+INFO:6.421039809741086
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7690:
+INFO:6.421039807998145
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7700:
+INFO:6.421039806260815
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7710:
+INFO:6.421039804529068
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7720:
+INFO:6.421039802802883
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7730:
+INFO:6.421039801082229
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7740:
+INFO:6.421039799367086
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7750:
+INFO:6.421039797657428
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7760:
+INFO:6.421039795953227
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7770:
+INFO:6.421039794254462
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7780:
+INFO:6.421039792561106
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7790:
+INFO:6.421039790873139
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7800:
+INFO:6.42103978919053
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7810:
+INFO:6.42103978751326
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7820:
+INFO:6.421039785841304
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7830:
+INFO:6.421039784174639
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7840:
+INFO:6.4210397825132395
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7850:
+INFO:6.4210397808570825
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7860:
+INFO:6.421039779206145
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7870:
+INFO:6.421039777560404
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7880:
+INFO:6.421039775919836
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7890:
+INFO:6.421039774284418
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7900:
+INFO:6.421039772654126
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7910:
+INFO:6.421039771028941
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7920:
+INFO:6.421039769408837
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7930:
+INFO:6.421039767793791
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7940:
+INFO:6.421039766183782
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7950:
+INFO:6.42103976457879
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7960:
+INFO:6.42103976297879
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7970:
+INFO:6.421039761383761
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7980:
+INFO:6.42103975979368
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 7990:
+INFO:6.4210397582085275
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8000:
+INFO:6.42103975662828
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8010:
+INFO:6.421039755052918
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8020:
+INFO:6.421039753482419
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8030:
+INFO:6.421039751916761
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8040:
+INFO:6.421039750355924
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8050:
+INFO:6.4210397487998865
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8060:
+INFO:6.421039747248629
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8070:
+INFO:6.421039745702128
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8080:
+INFO:6.421039744160365
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8090:
+INFO:6.421039742623319
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8100:
+INFO:6.421039741090969
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8110:
+INFO:6.421039739563297
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8120:
+INFO:6.421039738040281
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8130:
+INFO:6.4210397365219
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8140:
+INFO:6.421039735008135
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8150:
+INFO:6.421039733498967
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8160:
+INFO:6.421039731994375
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8170:
+INFO:6.421039730494341
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8180:
+INFO:6.421039728998843
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8190:
+INFO:6.421039727507863
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8200:
+INFO:6.421039726021382
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8210:
+INFO:6.421039724539383
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8220:
+INFO:6.421039723061841
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8230:
+INFO:6.421039721588742
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8240:
+INFO:6.421039720120066
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8250:
+INFO:6.421039718655793
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8260:
+INFO:6.421039717195905
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8270:
+INFO:6.421039715740385
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8280:
+INFO:6.421039714289212
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8290:
+INFO:6.421039712842369
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8300:
+INFO:6.421039711399837
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8310:
+INFO:6.4210397099616
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8320:
+INFO:6.421039708527637
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8330:
+INFO:6.421039707097932
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8340:
+INFO:6.421039705672465
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8350:
+INFO:6.42103970425122
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8360:
+INFO:6.4210397028341815
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8370:
+INFO:6.421039701421327
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8380:
+INFO:6.421039700012642
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8390:
+INFO:6.421039698608109
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8400:
+INFO:6.421039697207708
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8410:
+INFO:6.421039695811427
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8420:
+INFO:6.421039694419244
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8430:
+INFO:6.421039693031146
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8440:
+INFO:6.421039691647112
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8450:
+INFO:6.4210396902671265
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8460:
+INFO:6.421039688891175
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8470:
+INFO:6.421039687519238
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8480:
+INFO:6.4210396861513015
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8490:
+INFO:6.421039684787347
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8500:
+INFO:6.421039683427358
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8510:
+INFO:6.421039682071321
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8520:
+INFO:6.421039680719216
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8530:
+INFO:6.421039679371029
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8540:
+INFO:6.421039678026744
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8550:
+INFO:6.421039676686344
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8560:
+INFO:6.421039675349814
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8570:
+INFO:6.421039674017137
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8580:
+INFO:6.421039672688298
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8590:
+INFO:6.421039671363284
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8600:
+INFO:6.4210396700420755
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8610:
+INFO:6.4210396687246565
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8620:
+INFO:6.421039667411017
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8630:
+INFO:6.421039666101136
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8640:
+INFO:6.421039664795002
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8650:
+INFO:6.421039663492597
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8660:
+INFO:6.421039662193909
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8670:
+INFO:6.421039660898922
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8680:
+INFO:6.421039659607619
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8690:
+INFO:6.421039658319987
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8700:
+INFO:6.42103965703601
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8710:
+INFO:6.421039655755675
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8720:
+INFO:6.421039654478967
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8730:
+INFO:6.42103965320587
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8740:
+INFO:6.421039651936371
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8750:
+INFO:6.421039650670456
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8760:
+INFO:6.421039649408109
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8770:
+INFO:6.421039648149319
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8780:
+INFO:6.421039646894067
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8790:
+INFO:6.421039645642342
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8800:
+INFO:6.4210396443941296
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8810:
+INFO:6.421039643149414
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8820:
+INFO:6.421039641908185
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8830:
+INFO:6.421039640670427
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8840:
+INFO:6.421039639436125
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8850:
+INFO:6.421039638205267
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8860:
+INFO:6.421039636977839
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8870:
+INFO:6.421039635753826
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8880:
+INFO:6.4210396345332175
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8890:
+INFO:6.421039633315997
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8900:
+INFO:6.421039632102154
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8910:
+INFO:6.4210396308916735
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8920:
+INFO:6.421039629684542
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8930:
+INFO:6.421039628480747
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8940:
+INFO:6.421039627280277
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8950:
+INFO:6.421039626083117
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8960:
+INFO:6.421039624889254
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8970:
+INFO:6.421039623698675
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8980:
+INFO:6.42103962251137
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 8990:
+INFO:6.421039621327323
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9000:
+INFO:6.421039620146523
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9010:
+INFO:6.421039618968957
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9020:
+INFO:6.421039617794613
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9030:
+INFO:6.421039616623477
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9040:
+INFO:6.4210396154555385
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9050:
+INFO:6.421039614290782
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9060:
+INFO:6.421039613129201
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9070:
+INFO:6.421039611970778
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9080:
+INFO:6.4210396108155035
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9090:
+INFO:6.421039609663364
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9100:
+INFO:6.421039608514346
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9110:
+INFO:6.421039607368441
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9120:
+INFO:6.421039606225636
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9130:
+INFO:6.421039605085918
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9140:
+INFO:6.421039603949275
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9150:
+INFO:6.421039602815698
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9160:
+INFO:6.421039601685172
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9170:
+INFO:6.4210396005576875
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9180:
+INFO:6.421039599433231
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9190:
+INFO:6.421039598311794
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9200:
+INFO:6.421039597193362
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9210:
+INFO:6.421039596077925
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9220:
+INFO:6.421039594965472
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9230:
+INFO:6.42103959385599
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9240:
+INFO:6.4210395927494694
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9250:
+INFO:6.421039591645898
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9260:
+INFO:6.421039590545266
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9270:
+INFO:6.421039589447562
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9280:
+INFO:6.421039588352773
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9290:
+INFO:6.421039587260891
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9300:
+INFO:6.421039586171903
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9310:
+INFO:6.421039585085798
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9320:
+INFO:6.421039584002568
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9330:
+INFO:6.421039582922198
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9340:
+INFO:6.4210395818446795
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9350:
+INFO:6.421039580770002
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9360:
+INFO:6.421039579698155
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9370:
+INFO:6.421039578629127
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9380:
+INFO:6.421039577562909
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9390:
+INFO:6.421039576499489
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9400:
+INFO:6.421039575438858
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9410:
+INFO:6.4210395743810045
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9420:
+INFO:6.421039573325919
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9430:
+INFO:6.421039572273591
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9440:
+INFO:6.42103957122401
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9450:
+INFO:6.421039570177165
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9460:
+INFO:6.421039569133047
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9470:
+INFO:6.421039568091647
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9480:
+INFO:6.421039567052953
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9490:
+INFO:6.4210395660169555
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9500:
+INFO:6.421039564983646
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9510:
+INFO:6.421039563953014
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9520:
+INFO:6.4210395629250465
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9530:
+INFO:6.42103956189974
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9540:
+INFO:6.421039560877078
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9550:
+INFO:6.421039559857055
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9560:
+INFO:6.421039558839661
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9570:
+INFO:6.4210395578248844
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9580:
+INFO:6.421039556812719
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9590:
+INFO:6.421039555803154
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9600:
+INFO:6.421039554796177
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9610:
+INFO:6.421039553791783
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9620:
+INFO:6.421039552789958
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9630:
+INFO:6.421039551790698
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9640:
+INFO:6.4210395507939895
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9650:
+INFO:6.421039549799824
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9660:
+INFO:6.421039548808193
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9670:
+INFO:6.421039547819088
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9680:
+INFO:6.4210395468325
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9690:
+INFO:6.421039545848418
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9700:
+INFO:6.421039544866835
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9710:
+INFO:6.421039543887741
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9720:
+INFO:6.421039542911126
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9730:
+INFO:6.421039541936983
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9740:
+INFO:6.421039540965303
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9750:
+INFO:6.421039539996077
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9760:
+INFO:6.421039539029295
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9770:
+INFO:6.421039538064949
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9780:
+INFO:6.42103953710303
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9790:
+INFO:6.42103953614353
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9800:
+INFO:6.421039535186441
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9810:
+INFO:6.421039534231753
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9820:
+INFO:6.42103953327946
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9830:
+INFO:6.421039532329548
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9840:
+INFO:6.421039531382015
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9850:
+INFO:6.421039530436849
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9860:
+INFO:6.421039529494042
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9870:
+INFO:6.421039528553585
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9880:
+INFO:6.421039527615472
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9890:
+INFO:6.421039526679692
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9900:
+INFO:6.421039525746239
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9910:
+INFO:6.421039524815104
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9920:
+INFO:6.42103952388628
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9930:
+INFO:6.421039522959757
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9940:
+INFO:6.421039522035527
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9950:
+INFO:6.421039521113582
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9960:
+INFO:6.421039520193916
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9970:
+INFO:6.421039519276518
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9980:
+INFO:6.4210395183613835
+INFO:Energy l2norm(div(r + n/|n|) - d0/mu) after step 9990:
+INFO:6.421039517448502
+INFO:/home/ma6447ru/Documents/promotion/mythesis/python/tvsd_pkg/recordings/tvsd_2025-12-16_12-40-35-070464/denoised_img.png
+INFO:Image Reconstruction finishing.

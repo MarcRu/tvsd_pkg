@@ -1,0 +1,3814 @@
+INFO:/home/ma6447ru/Documents/promotion/mythesis/python/tvsd_pkg/recordings/tvsd_2025-12-16_12-44-00-671387/noisy_img.png
+INFO:Tangent Field Smoothing starting.
+INFO:/home/ma6447ru/Documents/promotion/mythesis/python/tvsd_pkg/recordings/tvsd_2025-12-16_12-44-00-671387/tau0[0].png
+INFO:/home/ma6447ru/Documents/promotion/mythesis/python/tvsd_pkg/recordings/tvsd_2025-12-16_12-44-00-671387/tau0[1].png
+INFO:Step: 0
+INFO:Divergence l2norm(div(tau)): 5.069460469058663e-14
+INFO:Energy l2norm(Pi_k div p - delta^(-1) tau_0): 0.8207857435664399
+INFO:Tangent Field Smoothing finishing.
+INFO:/home/ma6447ru/Documents/promotion/mythesis/python/tvsd_pkg/recordings/tvsd_2025-12-16_12-44-00-671387/tau[0].png
+INFO:/home/ma6447ru/Documents/promotion/mythesis/python/tvsd_pkg/recordings/tvsd_2025-12-16_12-44-00-671387/tau[1].png
+INFO:/home/ma6447ru/Documents/promotion/mythesis/python/tvsd_pkg/recordings/tvsd_2025-12-16_12-44-00-671387/g.png
+INFO:Image Reconstruction (variant 2) starting.
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 0:
+INFO:5.971285276702798
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1:
+INFO:5.963297625289845
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2:
+INFO:5.9618237275633215
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3:
+INFO:5.961263153876342
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4:
+INFO:5.960947182537549
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5:
+INFO:5.96071959150975
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6:
+INFO:5.960531516778978
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7:
+INFO:5.960364635164122
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8:
+INFO:5.960211035327911
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9:
+INFO:5.960066840863039
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 10:
+INFO:5.959929913837434
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 11:
+INFO:5.959798945202839
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 12:
+INFO:5.959673060310169
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 13:
+INFO:5.959551633098313
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 14:
+INFO:5.959434191030498
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 15:
+INFO:5.959320362791248
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 16:
+INFO:5.9592098473545505
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 17:
+INFO:5.959102394550532
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 18:
+INFO:5.958997792300461
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 19:
+INFO:5.958895857868928
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 20:
+INFO:5.9587964317091755
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 21:
+INFO:5.958699372939347
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 22:
+INFO:5.958604555854862
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 23:
+INFO:5.958511867301757
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 24:
+INFO:5.958421204888116
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 25:
+INFO:5.958332475495601
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 26:
+INFO:5.958245593980955
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 27:
+INFO:5.958160482139237
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 28:
+INFO:5.958077067811535
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 29:
+INFO:5.957995284170555
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 30:
+INFO:5.957915069103887
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 31:
+INFO:5.9578363647066555
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 32:
+INFO:5.9577591168457396
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 33:
+INFO:5.9576832747894635
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 34:
+INFO:5.957608790882569
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 35:
+INFO:5.957535620262189
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 36:
+INFO:5.957463720610421
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 37:
+INFO:5.957393051936074
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 38:
+INFO:5.957323576382513
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 39:
+INFO:5.95725525805638
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 40:
+INFO:5.9571880628758915
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 41:
+INFO:5.957121958434297
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 42:
+INFO:5.957056913877879
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 43:
+INFO:5.956992899795629
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 44:
+INFO:5.956929888119349
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 45:
+INFO:5.956867852033344
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 46:
+INFO:5.956806765892449
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 47:
+INFO:5.9567466051472175
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 48:
+INFO:5.9566873462752685
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 49:
+INFO:5.956628966718835
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 50:
+INFO:5.956571444827463
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 51:
+INFO:5.956514759805063
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 52:
+INFO:5.9564588916610886
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 53:
+INFO:5.956403821165398
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 54:
+INFO:5.956349529806747
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 55:
+INFO:5.956295999754219
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 56:
+INFO:5.9562432138213275
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 57:
+INFO:5.956191155432691
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 58:
+INFO:5.95613980859302
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 59:
+INFO:5.956089157858138
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 60:
+INFO:5.956039188307926
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 61:
+INFO:5.95598988552117
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 62:
+INFO:5.9559412355518875
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 63:
+INFO:5.95589322490716
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 64:
+INFO:5.95584584052629
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 65:
+INFO:5.955799069761182
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 66:
+INFO:5.955752900358127
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 67:
+INFO:5.955707320440465
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 68:
+INFO:5.955662318492245
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 69:
+INFO:5.955617883342867
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 70:
+INFO:5.955574004152503
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 71:
+INFO:5.955530670398353
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 72:
+INFO:5.9554878718616315
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 73:
+INFO:5.9554455986153165
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 74:
+INFO:5.95540384101249
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 75:
+INFO:5.9553625896752544
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 76:
+INFO:5.955321835484291
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 77:
+INFO:5.95528156956889
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 78:
+INFO:5.955241783297469
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 79:
+INFO:5.955202468268568
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 80:
+INFO:5.955163616302263
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 81:
+INFO:5.955125219432011
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 82:
+INFO:5.955087269896875
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 83:
+INFO:5.955049760134095
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 84:
+INFO:5.955012682771958
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 85:
+INFO:5.954976030623113
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 86:
+INFO:5.954939796678144
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 87:
+INFO:5.954903974099287
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 88:
+INFO:5.954868556214664
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 89:
+INFO:5.954833536512691
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 90:
+INFO:5.954798908636697
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 91:
+INFO:5.954764666379746
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 92:
+INFO:5.954730803679634
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 93:
+INFO:5.9546973146142355
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 94:
+INFO:5.954664193397011
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 95:
+INFO:5.9546314343726365
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 96:
+INFO:5.9545990320128395
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 97:
+INFO:5.954566980912399
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 98:
+INFO:5.954535275785305
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 99:
+INFO:5.954503911461078
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 100:
+INFO:5.954472882881229
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 101:
+INFO:5.954442185095864
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 102:
+INFO:5.954411813260418
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 103:
+INFO:5.954381762632511
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 104:
+INFO:5.954352028568929
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 105:
+INFO:5.954322606522724
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 106:
+INFO:5.954293492040414
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 107:
+INFO:5.9542646807593
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 108:
+INFO:5.954236168404866
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 109:
+INFO:5.954207950788291
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 110:
+INFO:5.954180023804041
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 111:
+INFO:5.954152383427554
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 112:
+INFO:5.954125025712991
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 113:
+INFO:5.954097946791085
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 114:
+INFO:5.95407114286704
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 115:
+INFO:5.954044610218541
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 116:
+INFO:5.954018345193847
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 117:
+INFO:5.953992344209948
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 118:
+INFO:5.953966603750773
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 119:
+INFO:5.953941120365455
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 120:
+INFO:5.953915890666653
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 121:
+INFO:5.953890911328929
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 122:
+INFO:5.953866179087165
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 123:
+INFO:5.953841690735064
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 124:
+INFO:5.953817443123672
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 125:
+INFO:5.9537934331599605
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 126:
+INFO:5.953769657805455
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 127:
+INFO:5.953746114074902
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 128:
+INFO:5.953722799034987
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 129:
+INFO:5.953699709803085
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 130:
+INFO:5.953676843546054
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 131:
+INFO:5.953654197479073
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 132:
+INFO:5.953631768864501
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 133:
+INFO:5.953609555010787
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 134:
+INFO:5.953587553271408
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 135:
+INFO:5.95356576104383
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 136:
+INFO:5.953544175768513
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 137:
+INFO:5.953522794927937
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 138:
+INFO:5.95350161604568
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 139:
+INFO:5.953480636685485
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 140:
+INFO:5.953459854450386
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 141:
+INFO:5.953439266981844
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 142:
+INFO:5.95341887195892
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 143:
+INFO:5.953398667097455
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 144:
+INFO:5.9533786501492925
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 145:
+INFO:5.953358818901501
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 146:
+INFO:5.953339171175646
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 147:
+INFO:5.953319704827055
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 148:
+INFO:5.953300417744118
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 149:
+INFO:5.9532813078476075
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 150:
+INFO:5.953262373090008
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 151:
+INFO:5.953243611454873
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 152:
+INFO:5.95322502095619
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 153:
+INFO:5.953206599637777
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 154:
+INFO:5.953188345572673
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 155:
+INFO:5.953170256862574
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 156:
+INFO:5.953152331637263
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 157:
+INFO:5.953134568054062
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 158:
+INFO:5.953116964297291
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 159:
+INFO:5.953099518577751
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 160:
+INFO:5.953082229132208
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 161:
+INFO:5.953065094222902
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 162:
+INFO:5.953048112137065
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 163:
+INFO:5.953031281186438
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 164:
+INFO:5.953014599706832
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 165:
+INFO:5.952998066057655
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 166:
+INFO:5.952981678621492
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 167:
+INFO:5.952965435803669
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 168:
+INFO:5.952949336031838
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 169:
+INFO:5.952933377755572
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 170:
+INFO:5.952917559445966
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 171:
+INFO:5.952901879595243
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 172:
+INFO:5.952886336716382
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 173:
+INFO:5.952870929342746
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 174:
+INFO:5.952855656027719
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 175:
+INFO:5.952840515344356
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 176:
+INFO:5.952825505885032
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 177:
+INFO:5.9528106262611145
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 178:
+INFO:5.952795875102618
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 179:
+INFO:5.952781251057897
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 180:
+INFO:5.95276675279332
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 181:
+INFO:5.952752378992965
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 182:
+INFO:5.952738128358314
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 183:
+INFO:5.952723999607963
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 184:
+INFO:5.952709991477333
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 185:
+INFO:5.952696102718379
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 186:
+INFO:5.952682332099322
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 187:
+INFO:5.952668678404367
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 188:
+INFO:5.952655140433447
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 189:
+INFO:5.952641717001964
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 190:
+INFO:5.952628406940531
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 191:
+INFO:5.952615209094719
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 192:
+INFO:5.952602122324826
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 193:
+INFO:5.9525891455056295
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 194:
+INFO:5.952576277526151
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 195:
+INFO:5.952563517289431
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 196:
+INFO:5.952550863712304
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 197:
+INFO:5.9525383157251746
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 198:
+INFO:5.9525258722718055
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 199:
+INFO:5.952513532309106
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 200:
+INFO:5.952501294806921
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 201:
+INFO:5.952489158747829
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 202:
+INFO:5.952477123126949
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 203:
+INFO:5.952465186951733
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 204:
+INFO:5.952453349241788
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 205:
+INFO:5.952441609028677
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 206:
+INFO:5.952429965355736
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 207:
+INFO:5.952418417277902
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 208:
+INFO:5.952406963861526
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 209:
+INFO:5.9523956041842
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 210:
+INFO:5.952384337334582
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 211:
+INFO:5.952373162412238
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 212:
+INFO:5.952362078527474
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 213:
+INFO:5.9523510848011725
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 214:
+INFO:5.952340180364646
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 215:
+INFO:5.952329364359469
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 216:
+INFO:5.952318635937329
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 217:
+INFO:5.95230799425988
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 218:
+INFO:5.952297438498595
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 219:
+INFO:5.95228696783462
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 220:
+INFO:5.952276581458631
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 221:
+INFO:5.952266278570693
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 222:
+INFO:5.9522560583801285
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 223:
+INFO:5.952245920105384
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 224:
+INFO:5.9522358629738905
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 225:
+INFO:5.952225886221941
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 226:
+INFO:5.952215989094559
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 227:
+INFO:5.9522061708453755
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 228:
+INFO:5.952196430736509
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 229:
+INFO:5.9521867680384375
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 230:
+INFO:5.952177182029889
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 231:
+INFO:5.9521676719977155
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 232:
+INFO:5.952158237236788
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 233:
+INFO:5.95214887704988
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 234:
+INFO:5.952139590747555
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 235:
+INFO:5.952130377648062
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 236:
+INFO:5.9521212370772245
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 237:
+INFO:5.952112168368339
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 238:
+INFO:5.952103170862077
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 239:
+INFO:5.952094243906368
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 240:
+INFO:5.952085386856316
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 241:
+INFO:5.952076599074097
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 242:
+INFO:5.952067879928858
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 243:
+INFO:5.95205922879662
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 244:
+INFO:5.952050645060201
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 245:
+INFO:5.952042128109116
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 246:
+INFO:5.952033677339474
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 247:
+INFO:5.952025292153903
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 248:
+INFO:5.952016971961458
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 249:
+INFO:5.952008716177542
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 250:
+INFO:5.952000524223815
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 251:
+INFO:5.9519923955281
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 252:
+INFO:5.951984329524331
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 253:
+INFO:5.951976325652449
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 254:
+INFO:5.9519683833583406
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 255:
+INFO:5.951960502093757
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 256:
+INFO:5.95195268131623
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 257:
+INFO:5.951944920489002
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 258:
+INFO:5.951937219080959
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 259:
+INFO:5.951929576566547
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 260:
+INFO:5.951921992425707
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 261:
+INFO:5.951914466143801
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 262:
+INFO:5.951906997211548
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 263:
+INFO:5.951899585124949
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 264:
+INFO:5.951892229385228
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 265:
+INFO:5.951884929498756
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 266:
+INFO:5.951877684976996
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 267:
+INFO:5.951870495336434
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 268:
+INFO:5.951863360098515
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 269:
+INFO:5.951856278789585
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 270:
+INFO:5.951849250940826
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 271:
+INFO:5.951842276088198
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 272:
+INFO:5.95183535377238
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 273:
+INFO:5.951828483538714
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 274:
+INFO:5.951821664937138
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 275:
+INFO:5.951814897522144
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 276:
+INFO:5.951808180852716
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 277:
+INFO:5.951801514492265
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 278:
+INFO:5.951794898008593
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 279:
+INFO:5.951788330973826
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 280:
+INFO:5.9517818129643665
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 281:
+INFO:5.951775343560846
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 282:
+INFO:5.951768922348069
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 283:
+INFO:5.9517625489149655
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 284:
+INFO:5.951756222854523
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 285:
+INFO:5.951749943763759
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 286:
+INFO:5.951743711243674
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 287:
+INFO:5.951737524899207
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 288:
+INFO:5.951731384339181
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 289:
+INFO:5.951725289176256
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 290:
+INFO:5.95171923902687
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 291:
+INFO:5.951713233511201
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 292:
+INFO:5.951707272253153
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 293:
+INFO:5.951701354880294
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 294:
+INFO:5.951695481023822
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 295:
+INFO:5.951689650318513
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 296:
+INFO:5.951683862402692
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 297:
+INFO:5.951678116918179
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 298:
+INFO:5.951672413510254
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 299:
+INFO:5.951666751827616
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 300:
+INFO:5.951661131522346
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 301:
+INFO:5.951655552249869
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 302:
+INFO:5.9516500136689094
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 303:
+INFO:5.95164451544146
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 304:
+INFO:5.951639057232745
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 305:
+INFO:5.9516336387111775
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 306:
+INFO:5.95162825954833
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 307:
+INFO:5.951622919418894
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 308:
+INFO:5.9516176180006415
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 309:
+INFO:5.9516123549743805
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 310:
+INFO:5.951607130023949
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 311:
+INFO:5.951601942836166
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 312:
+INFO:5.951596793100806
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 313:
+INFO:5.951591680510567
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 314:
+INFO:5.951586604761027
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 315:
+INFO:5.951581565550623
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 316:
+INFO:5.951576562580617
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 317:
+INFO:5.9515715955550625
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 318:
+INFO:5.951566664180781
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 319:
+INFO:5.9515617681673225
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 320:
+INFO:5.95155690722694
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 321:
+INFO:5.951552081074563
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 322:
+INFO:5.951547289427762
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 323:
+INFO:5.951542532006731
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 324:
+INFO:5.951537808534239
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 325:
+INFO:5.951533118735628
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 326:
+INFO:5.9515284623387625
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 327:
+INFO:5.951523839074019
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 328:
+INFO:5.951519248674248
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 329:
+INFO:5.951514690874754
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 330:
+INFO:5.95151016541327
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 331:
+INFO:5.9515056720299215
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 332:
+INFO:5.951501210467217
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 333:
+INFO:5.9514967804700145
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 334:
+INFO:5.951492381785489
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 335:
+INFO:5.951488014163123
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 336:
+INFO:5.951483677354673
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 337:
+INFO:5.951479371114151
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 338:
+INFO:5.951475095197793
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 339:
+INFO:5.951470849364045
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 340:
+INFO:5.951466633373533
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 341:
+INFO:5.951462446989045
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 342:
+INFO:5.9514582899755055
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 343:
+INFO:5.951454162099957
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 344:
+INFO:5.951450063131533
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 345:
+INFO:5.951445992841446
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 346:
+INFO:5.951441951002951
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 347:
+INFO:5.951437937391332
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 348:
+INFO:5.951433951783888
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 349:
+INFO:5.951429993959902
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 350:
+INFO:5.951426063700621
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 351:
+INFO:5.95142216078925
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 352:
+INFO:5.951418285010915
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 353:
+INFO:5.95141443615265
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 354:
+INFO:5.95141061400338
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 355:
+INFO:5.951406818353901
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 356:
+INFO:5.9514030489968555
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 357:
+INFO:5.951399305726721
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 358:
+INFO:5.951395588339765
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 359:
+INFO:5.951391896634075
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 360:
+INFO:5.951388230409507
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 361:
+INFO:5.95138458946768
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 362:
+INFO:5.951380973611952
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 363:
+INFO:5.951377382647407
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 364:
+INFO:5.951373816380832
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 365:
+INFO:5.951370274620708
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 366:
+INFO:5.9513667571771816
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 367:
+INFO:5.951363263862053
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 368:
+INFO:5.951359794488773
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 369:
+INFO:5.951356348872414
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 370:
+INFO:5.951352926829654
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 371:
+INFO:5.951349528178768
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 372:
+INFO:5.9513461527396005
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 373:
+INFO:5.951342800333556
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 374:
+INFO:5.951339470783576
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 375:
+INFO:5.951336163914142
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 376:
+INFO:5.951332879551244
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 377:
+INFO:5.951329617522379
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 378:
+INFO:5.951326377656527
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 379:
+INFO:5.951323159784141
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 380:
+INFO:5.951319963737131
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 381:
+INFO:5.951316789348846
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 382:
+INFO:5.951313636454065
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 383:
+INFO:5.951310504888983
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 384:
+INFO:5.951307394491194
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 385:
+INFO:5.95130430509968
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 386:
+INFO:5.9513012365547935
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 387:
+INFO:5.9512981886982494
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 388:
+INFO:5.9512951613731095
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 389:
+INFO:5.951292154423768
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 390:
+INFO:5.951289167695942
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 391:
+INFO:5.9512862010366545
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 392:
+INFO:5.951283254294225
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 393:
+INFO:5.951280327318257
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 394:
+INFO:5.951277419959621
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 395:
+INFO:5.95127453207045
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 396:
+INFO:5.951271663504123
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 397:
+INFO:5.951268814115248
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 398:
+INFO:5.9512659837596615
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 399:
+INFO:5.951263172294412
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 400:
+INFO:5.951260379577741
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 401:
+INFO:5.951257605469084
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 402:
+INFO:5.951254849829053
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 403:
+INFO:5.951252112519427
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 404:
+INFO:5.9512493934031365
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 405:
+INFO:5.951246692344257
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 406:
+INFO:5.951244009208002
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 407:
+INFO:5.951241343860703
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 408:
+INFO:5.9512386961698045
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 409:
+INFO:5.951236066003851
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 410:
+INFO:5.95123345323248
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 411:
+INFO:5.951230857726411
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 412:
+INFO:5.95122827935743
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 413:
+INFO:5.95122571799839
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 414:
+INFO:5.951223173523187
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 415:
+INFO:5.951220645806764
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 416:
+INFO:5.951218134725092
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 417:
+INFO:5.951215640155158
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 418:
+INFO:5.951213161974968
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 419:
+INFO:5.951210700063524
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 420:
+INFO:5.951208254300832
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 421:
+INFO:5.951205824567881
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 422:
+INFO:5.951203410746632
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 423:
+INFO:5.951201012720015
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 424:
+INFO:5.951198630371915
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 425:
+INFO:5.951196263587168
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 426:
+INFO:5.951193912251551
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 427:
+INFO:5.951191576251765
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 428:
+INFO:5.951189255475445
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 429:
+INFO:5.95118694981113
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 430:
+INFO:5.9511846591482715
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 431:
+INFO:5.951182383377218
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 432:
+INFO:5.9511801223892045
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 433:
+INFO:5.9511778760763505
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 434:
+INFO:5.951175644331647
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 435:
+INFO:5.951173427048952
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 436:
+INFO:5.951171224122979
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 437:
+INFO:5.951169035449295
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 438:
+INFO:5.951166860924304
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 439:
+INFO:5.951164700445247
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 440:
+INFO:5.951162553910195
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 441:
+INFO:5.951160421218034
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 442:
+INFO:5.95115830226846
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 443:
+INFO:5.95115619696198
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 444:
+INFO:5.951154105199891
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 445:
+INFO:5.951152026884285
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 446:
+INFO:5.951149961918037
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 447:
+INFO:5.951147910204795
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 448:
+INFO:5.95114587164898
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 449:
+INFO:5.951143846155775
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 450:
+INFO:5.951141833631117
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 451:
+INFO:5.951139833981691
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 452:
+INFO:5.951137847114927
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 453:
+INFO:5.951135872938985
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 454:
+INFO:5.951133911362759
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 455:
+INFO:5.951131962295867
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 456:
+INFO:5.951130025648635
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 457:
+INFO:5.9511281013321105
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 458:
+INFO:5.951126189258033
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 459:
+INFO:5.95112428933885
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 460:
+INFO:5.951122401487688
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 461:
+INFO:5.9511205256183715
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 462:
+INFO:5.951118661645395
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 463:
+INFO:5.951116809483928
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 464:
+INFO:5.951114969049808
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 465:
+INFO:5.951113140259532
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 466:
+INFO:5.951111323030258
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 467:
+INFO:5.951109517279784
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 468:
+INFO:5.951107722926561
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 469:
+INFO:5.951105939889669
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 470:
+INFO:5.951104168088829
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 471:
+INFO:5.9511024074443855
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 472:
+INFO:5.951100657877305
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 473:
+INFO:5.95109891930917
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 474:
+INFO:5.951097191662174
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 475:
+INFO:5.951095474859118
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 476:
+INFO:5.951093768823402
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 477:
+INFO:5.95109207347902
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 478:
+INFO:5.95109038875056
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 479:
+INFO:5.951088714563193
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 480:
+INFO:5.951087050842668
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 481:
+INFO:5.951085397515312
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 482:
+INFO:5.951083754508023
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 483:
+INFO:5.951082121748263
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 484:
+INFO:5.951080499164051
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 485:
+INFO:5.95107888668397
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 486:
+INFO:5.9510772842371455
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 487:
+INFO:5.951075691753255
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 488:
+INFO:5.951074109162517
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 489:
+INFO:5.9510725363956825
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 490:
+INFO:5.951070973384041
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 491:
+INFO:5.951069420059407
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 492:
+INFO:5.951067876354117
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 493:
+INFO:5.95106634220103
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 494:
+INFO:5.951064817533514
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 495:
+INFO:5.951063302285457
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 496:
+INFO:5.9510617963912384
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 497:
+INFO:5.951060299785756
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 498:
+INFO:5.951058812404391
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 499:
+INFO:5.951057334183025
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 500:
+INFO:5.951055865058027
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 501:
+INFO:5.9510544049662535
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 502:
+INFO:5.951052953845035
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 503:
+INFO:5.951051511632187
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 504:
+INFO:5.951050078265992
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 505:
+INFO:5.9510486536852065
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 506:
+INFO:5.951047237829048
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 507:
+INFO:5.951045830637193
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 508:
+INFO:5.951044432049783
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 509:
+INFO:5.951043042007406
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 510:
+INFO:5.951041660451102
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 511:
+INFO:5.951040287322356
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 512:
+INFO:5.9510389225630975
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 513:
+INFO:5.951037566115693
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 514:
+INFO:5.951036217922944
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 515:
+INFO:5.951034877928078
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 516:
+INFO:5.951033546074758
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 517:
+INFO:5.951032222307069
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 518:
+INFO:5.951030906569514
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 519:
+INFO:5.9510295988070165
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 520:
+INFO:5.9510282989649115
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 521:
+INFO:5.951027006988945
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 522:
+INFO:5.951025722825271
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 523:
+INFO:5.951024446420445
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 524:
+INFO:5.951023177721425
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 525:
+INFO:5.951021916675566
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 526:
+INFO:5.9510206632306115
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 527:
+INFO:5.951019417334707
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 528:
+INFO:5.951018178936371
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 529:
+INFO:5.951016947984517
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 530:
+INFO:5.951015724428435
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 531:
+INFO:5.951014508217795
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 532:
+INFO:5.951013299302639
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 533:
+INFO:5.951012097633383
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 534:
+INFO:5.951010903160809
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 535:
+INFO:5.951009715836069
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 536:
+INFO:5.9510085356106766
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 537:
+INFO:5.951007362436502
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 538:
+INFO:5.951006196265777
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 539:
+INFO:5.95100503705109
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 540:
+INFO:5.951003884745372
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 541:
+INFO:5.95100273930191
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 542:
+INFO:5.95100160067433
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 543:
+INFO:5.951000468816599
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 544:
+INFO:5.950999343683032
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 545:
+INFO:5.9509982252282745
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 546:
+INFO:5.950997113407311
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 547:
+INFO:5.950996008175456
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 548:
+INFO:5.950994909488355
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 549:
+INFO:5.950993817301981
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 550:
+INFO:5.950992731572631
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 551:
+INFO:5.950991652256923
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 552:
+INFO:5.950990579311796
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 553:
+INFO:5.950989512694504
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 554:
+INFO:5.950988452362617
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 555:
+INFO:5.950987398274014
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 556:
+INFO:5.95098635038689
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 557:
+INFO:5.950985308659736
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 558:
+INFO:5.950984273051359
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 559:
+INFO:5.95098324352086
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 560:
+INFO:5.950982220027643
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 561:
+INFO:5.950981202531408
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 562:
+INFO:5.950980190992149
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 563:
+INFO:5.950979185370158
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 564:
+INFO:5.950978185626009
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 565:
+INFO:5.950977191720569
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 566:
+INFO:5.950976203614989
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 567:
+INFO:5.950975221270706
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 568:
+INFO:5.950974244649434
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 569:
+INFO:5.950973273713169
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 570:
+INFO:5.9509723084241815
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 571:
+INFO:5.9509713487450195
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 572:
+INFO:5.9509703946385
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 573:
+INFO:5.950969446067711
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 574:
+INFO:5.95096850299601
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 575:
+INFO:5.950967565387021
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 576:
+INFO:5.9509666332046285
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 577:
+INFO:5.9509657064129815
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 578:
+INFO:5.950964784976489
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 579:
+INFO:5.9509638688598185
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 580:
+INFO:5.9509629580278895
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 581:
+INFO:5.950962052445878
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 582:
+INFO:5.950961152079215
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 583:
+INFO:5.950960256893573
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 584:
+INFO:5.950959366854883
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 585:
+INFO:5.950958481929311
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 586:
+INFO:5.950957602083276
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 587:
+INFO:5.950956727283435
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 588:
+INFO:5.950955857496686
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 589:
+INFO:5.950954992690162
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 590:
+INFO:5.950954132831242
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 591:
+INFO:5.950953277887529
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 592:
+INFO:5.950952427826866
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 593:
+INFO:5.950951582617324
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 594:
+INFO:5.950950742227202
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 595:
+INFO:5.950949906625031
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 596:
+INFO:5.950949075779563
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 597:
+INFO:5.950948249659778
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 598:
+INFO:5.950947428234874
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 599:
+INFO:5.950946611474276
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 600:
+INFO:5.950945799347621
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 601:
+INFO:5.950944991824767
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 602:
+INFO:5.950944188875788
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 603:
+INFO:5.950943390470965
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 604:
+INFO:5.950942596580805
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 605:
+INFO:5.950941807176012
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 606:
+INFO:5.950941022227505
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 607:
+INFO:5.950940241706412
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 608:
+INFO:5.950939465584063
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 609:
+INFO:5.950938693831995
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 610:
+INFO:5.950937926421943
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 611:
+INFO:5.95093716332585
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 612:
+INFO:5.950936404515853
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 613:
+INFO:5.950935649964291
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 614:
+INFO:5.9509348996436975
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 615:
+INFO:5.9509341535267986
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 616:
+INFO:5.9509334115865204
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 617:
+INFO:5.950932673795974
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 618:
+INFO:5.9509319401284655
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 619:
+INFO:5.95093121055749
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 620:
+INFO:5.950930485056729
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 621:
+INFO:5.950929763600048
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 622:
+INFO:5.9509290461615025
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 623:
+INFO:5.950928332715328
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 624:
+INFO:5.950927623235945
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 625:
+INFO:5.950926917697947
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 626:
+INFO:5.950926216076118
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 627:
+INFO:5.950925518345412
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 628:
+INFO:5.950924824480961
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 629:
+INFO:5.950924134458076
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 630:
+INFO:5.950923448252237
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 631:
+INFO:5.9509227658391
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 632:
+INFO:5.95092208719449
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 633:
+INFO:5.950921412294403
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 634:
+INFO:5.950920741115006
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 635:
+INFO:5.950920073632627
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 636:
+INFO:5.950919409823768
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 637:
+INFO:5.95091874966509
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 638:
+INFO:5.950918093133422
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 639:
+INFO:5.95091744020575
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 640:
+INFO:5.950916790859224
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 641:
+INFO:5.950916145071152
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 642:
+INFO:5.950915502819
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 643:
+INFO:5.950914864080392
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 644:
+INFO:5.9509142288331125
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 645:
+INFO:5.950913597055094
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 646:
+INFO:5.950912968724424
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 647:
+INFO:5.9509123438193505
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 648:
+INFO:5.950911722318268
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 649:
+INFO:5.950911104199722
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 650:
+INFO:5.950910489442408
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 651:
+INFO:5.95090987802517
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 652:
+INFO:5.950909269927
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 653:
+INFO:5.950908665127038
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 654:
+INFO:5.950908063604564
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 655:
+INFO:5.950907465339007
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 656:
+INFO:5.9509068703099395
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 657:
+INFO:5.9509062784970705
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 658:
+INFO:5.950905689880255
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 659:
+INFO:5.950905104439486
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 660:
+INFO:5.950904522154893
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 661:
+INFO:5.950903943006749
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 662:
+INFO:5.95090336697546
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 663:
+INFO:5.950902794041569
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 664:
+INFO:5.950902224185747
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 665:
+INFO:5.950901657388811
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 666:
+INFO:5.950901093631702
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 667:
+INFO:5.950900532895495
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 668:
+INFO:5.950899975161394
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 669:
+INFO:5.950899420410736
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 670:
+INFO:5.950898868624986
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 671:
+INFO:5.9508983197857335
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 672:
+INFO:5.950897773874699
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 673:
+INFO:5.950897230873727
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 674:
+INFO:5.950896690764788
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 675:
+INFO:5.950896153529975
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 676:
+INFO:5.950895619151506
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 677:
+INFO:5.95089508761172
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 678:
+INFO:5.950894558893076
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 679:
+INFO:5.950894032978158
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 680:
+INFO:5.950893509849666
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 681:
+INFO:5.95089298949042
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 682:
+INFO:5.950892471883355
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 683:
+INFO:5.950891957011528
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 684:
+INFO:5.950891444858107
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 685:
+INFO:5.95089093540638
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 686:
+INFO:5.950890428639744
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 687:
+INFO:5.950889924541716
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 688:
+INFO:5.950889423095919
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 689:
+INFO:5.950888924286095
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 690:
+INFO:5.950888428096087
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 691:
+INFO:5.950887934509861
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 692:
+INFO:5.95088744351148
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 693:
+INFO:5.950886955085125
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 694:
+INFO:5.950886469215079
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 695:
+INFO:5.950885985885735
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 696:
+INFO:5.950885505081592
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 697:
+INFO:5.950885026787251
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 698:
+INFO:5.950884550987422
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 699:
+INFO:5.9508840776669185
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 700:
+INFO:5.9508836068106525
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 701:
+INFO:5.950883138403644
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 702:
+INFO:5.95088267243101
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 703:
+INFO:5.9508822088779745
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 704:
+INFO:5.950881747729852
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 705:
+INFO:5.950881288972065
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 706:
+INFO:5.950880832590131
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 707:
+INFO:5.950880378569663
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 708:
+INFO:5.950879926896376
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 709:
+INFO:5.95087947755608
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 710:
+INFO:5.950879030534678
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 711:
+INFO:5.95087858581817
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 712:
+INFO:5.950878143392653
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 713:
+INFO:5.950877703244313
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 714:
+INFO:5.950877265359432
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 715:
+INFO:5.950876829724384
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 716:
+INFO:5.9508763963256355
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 717:
+INFO:5.95087596514974
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 718:
+INFO:5.950875536183345
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 719:
+INFO:5.950875109413187
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 720:
+INFO:5.950874684826089
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 721:
+INFO:5.950874262408965
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 722:
+INFO:5.950873842148817
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 723:
+INFO:5.950873424032732
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 724:
+INFO:5.950873008047885
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 725:
+INFO:5.950872594181536
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 726:
+INFO:5.950872182421034
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 727:
+INFO:5.950871772753807
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 728:
+INFO:5.9508713651673695
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 729:
+INFO:5.950870959649323
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 730:
+INFO:5.950870556187344
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 731:
+INFO:5.9508701547692
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 732:
+INFO:5.950869755382736
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 733:
+INFO:5.950869358015877
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 734:
+INFO:5.950868962656632
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 735:
+INFO:5.950868569293086
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 736:
+INFO:5.9508681779134065
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 737:
+INFO:5.950867788505839
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 738:
+INFO:5.950867401058705
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 739:
+INFO:5.950867015560407
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 740:
+INFO:5.950866631999423
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 741:
+INFO:5.950866250364308
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 742:
+INFO:5.9508658706436925
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 743:
+INFO:5.950865492826283
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 744:
+INFO:5.950865116900859
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 745:
+INFO:5.950864742856278
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 746:
+INFO:5.950864370681465
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 747:
+INFO:5.950864000365427
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 748:
+INFO:5.9508636318972385
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 749:
+INFO:5.950863265266046
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 750:
+INFO:5.950862900461068
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 751:
+INFO:5.950862537471594
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 752:
+INFO:5.950862176286986
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 753:
+INFO:5.950861816896675
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 754:
+INFO:5.950861459290162
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 755:
+INFO:5.950861103457014
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 756:
+INFO:5.95086074938687
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 757:
+INFO:5.950860397069439
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 758:
+INFO:5.950860046494491
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 759:
+INFO:5.95085969765187
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 760:
+INFO:5.950859350531484
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 761:
+INFO:5.950859005123305
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 762:
+INFO:5.950858661417374
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 763:
+INFO:5.950858319403798
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 764:
+INFO:5.950857979072742
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 765:
+INFO:5.950857640414444
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 766:
+INFO:5.9508573034192045
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 767:
+INFO:5.95085696807738
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 768:
+INFO:5.950856634379399
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 769:
+INFO:5.950856302315746
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 770:
+INFO:5.950855971876973
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 771:
+INFO:5.950855643053688
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 772:
+INFO:5.950855315836565
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 773:
+INFO:5.950854990216337
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 774:
+INFO:5.950854666183797
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 775:
+INFO:5.950854343729799
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 776:
+INFO:5.950854022845253
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 777:
+INFO:5.950853703521134
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 778:
+INFO:5.95085338574847
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 779:
+INFO:5.9508530695183515
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 780:
+INFO:5.950852754821925
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 781:
+INFO:5.95085244165039
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 782:
+INFO:5.950852129995013
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 783:
+INFO:5.950851819847106
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 784:
+INFO:5.950851511198046
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 785:
+INFO:5.95085120403926
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 786:
+INFO:5.9508508983622335
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 787:
+INFO:5.9508505941585055
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 788:
+INFO:5.950850291419669
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 789:
+INFO:5.950849990137373
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 790:
+INFO:5.9508496903033175
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 791:
+INFO:5.950849391909261
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 792:
+INFO:5.950849094947009
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 793:
+INFO:5.9508487994084245
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 794:
+INFO:5.95084850528542
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 795:
+INFO:5.950848212569962
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 796:
+INFO:5.950847921254065
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 797:
+INFO:5.950847631329798
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 798:
+INFO:5.950847342789282
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 799:
+INFO:5.950847055624685
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 800:
+INFO:5.950846769828225
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 801:
+INFO:5.950846485392174
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 802:
+INFO:5.950846202308849
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 803:
+INFO:5.95084592057062
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 804:
+INFO:5.950845640169904
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 805:
+INFO:5.950845361099161
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 806:
+INFO:5.95084508335091
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 807:
+INFO:5.95084480691771
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 808:
+INFO:5.9508445317921685
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 809:
+INFO:5.95084425796694
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 810:
+INFO:5.950843985434731
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 811:
+INFO:5.950843714188284
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 812:
+INFO:5.950843444220399
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 813:
+INFO:5.950843175523911
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 814:
+INFO:5.950842908091708
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 815:
+INFO:5.950842641916721
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 816:
+INFO:5.950842376991926
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 817:
+INFO:5.95084211331034
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 818:
+INFO:5.95084185086503
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 819:
+INFO:5.9508415896491025
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 820:
+INFO:5.950841329655708
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 821:
+INFO:5.950841070878043
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 822:
+INFO:5.950840813309342
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 823:
+INFO:5.950840556942886
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 824:
+INFO:5.950840301771999
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 825:
+INFO:5.950840047790044
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 826:
+INFO:5.950839794990429
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 827:
+INFO:5.9508395433666
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 828:
+INFO:5.950839292912045
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 829:
+INFO:5.950839043620298
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 830:
+INFO:5.950838795484929
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 831:
+INFO:5.950838548499547
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 832:
+INFO:5.950838302657806
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 833:
+INFO:5.950838057953397
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 834:
+INFO:5.9508378143800496
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 835:
+INFO:5.950837571931537
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 836:
+INFO:5.950837330601669
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 837:
+INFO:5.950837090384291
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 838:
+INFO:5.950836851273293
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 839:
+INFO:5.950836613262599
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 840:
+INFO:5.950836376346173
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 841:
+INFO:5.950836140518016
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 842:
+INFO:5.950835905772165
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 843:
+INFO:5.9508356721026985
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 844:
+INFO:5.950835439503727
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 845:
+INFO:5.950835207969401
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 846:
+INFO:5.950834977493907
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 847:
+INFO:5.950834748071465
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 848:
+INFO:5.950834519696335
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 849:
+INFO:5.95083429236281
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 850:
+INFO:5.950834066065221
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 851:
+INFO:5.950833840797928
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 852:
+INFO:5.950833616555334
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 853:
+INFO:5.950833393331874
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 854:
+INFO:5.950833171122014
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 855:
+INFO:5.950832949920259
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 856:
+INFO:5.950832729721143
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 857:
+INFO:5.9508325105192394
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 858:
+INFO:5.950832292309151
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 859:
+INFO:5.950832075085516
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 860:
+INFO:5.950831858843003
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 861:
+INFO:5.950831643576318
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 862:
+INFO:5.950831429280197
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 863:
+INFO:5.950831215949406
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 864:
+INFO:5.950831003578747
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 865:
+INFO:5.950830792163053
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 866:
+INFO:5.950830581697189
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 867:
+INFO:5.950830372176049
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 868:
+INFO:5.950830163594561
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 869:
+INFO:5.950829955947683
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 870:
+INFO:5.950829749230405
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 871:
+INFO:5.950829543437748
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 872:
+INFO:5.95082933856476
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 873:
+INFO:5.950829134606523
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 874:
+INFO:5.950828931558147
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 875:
+INFO:5.950828729414772
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 876:
+INFO:5.950828528171569
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 877:
+INFO:5.9508283278237375
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 878:
+INFO:5.950828128366505
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 879:
+INFO:5.950827929795128
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 880:
+INFO:5.950827732104895
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 881:
+INFO:5.950827535291121
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 882:
+INFO:5.9508273393491455
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 883:
+INFO:5.950827144274342
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 884:
+INFO:5.95082695006211
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 885:
+INFO:5.950826756707877
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 886:
+INFO:5.950826564207098
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 887:
+INFO:5.950826372555256
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 888:
+INFO:5.950826181747861
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 889:
+INFO:5.950825991780452
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 890:
+INFO:5.950825802648589
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 891:
+INFO:5.950825614347869
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 892:
+INFO:5.950825426873908
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 893:
+INFO:5.950825240222348
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 894:
+INFO:5.9508250543888614
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 895:
+INFO:5.950824869369146
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 896:
+INFO:5.950824685158923
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 897:
+INFO:5.950824501753941
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 898:
+INFO:5.950824319149976
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 899:
+INFO:5.950824137342823
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 900:
+INFO:5.950823956328312
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 901:
+INFO:5.950823776102288
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 902:
+INFO:5.950823596660629
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 903:
+INFO:5.950823417999231
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 904:
+INFO:5.950823240114021
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 905:
+INFO:5.950823063000945
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 906:
+INFO:5.950822886655978
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 907:
+INFO:5.950822711075111
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 908:
+INFO:5.950822536254371
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 909:
+INFO:5.9508223621898
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 910:
+INFO:5.950822188877465
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 911:
+INFO:5.9508220163134595
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 912:
+INFO:5.9508218444938965
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 913:
+INFO:5.950821673414916
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 914:
+INFO:5.950821503072677
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 915:
+INFO:5.950821333463366
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 916:
+INFO:5.95082116458319
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 917:
+INFO:5.950820996428373
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 918:
+INFO:5.950820828995173
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 919:
+INFO:5.950820662279861
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 920:
+INFO:5.950820496278732
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 921:
+INFO:5.950820330988106
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 922:
+INFO:5.950820166404322
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 923:
+INFO:5.9508200025237405
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 924:
+INFO:5.950819839342747
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 925:
+INFO:5.950819676857743
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 926:
+INFO:5.950819515065156
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 927:
+INFO:5.950819353961431
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 928:
+INFO:5.950819193543035
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 929:
+INFO:5.950819033806458
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 930:
+INFO:5.950818874748209
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 931:
+INFO:5.950818716364815
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 932:
+INFO:5.950818558652828
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 933:
+INFO:5.950818401608818
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 934:
+INFO:5.950818245229374
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 935:
+INFO:5.950818089511108
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 936:
+INFO:5.950817934450648
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 937:
+INFO:5.950817780044647
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 938:
+INFO:5.950817626289771
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 939:
+INFO:5.950817473182711
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 940:
+INFO:5.950817320720176
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 941:
+INFO:5.950817168898893
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 942:
+INFO:5.950817017715609
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 943:
+INFO:5.950816867167091
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 944:
+INFO:5.950816717250121
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 945:
+INFO:5.950816567961505
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 946:
+INFO:5.950816419298065
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 947:
+INFO:5.950816271256641
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 948:
+INFO:5.950816123834091
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 949:
+INFO:5.950815977027296
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 950:
+INFO:5.950815830833147
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 951:
+INFO:5.9508156852485605
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 952:
+INFO:5.950815540270466
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 953:
+INFO:5.950815395895814
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 954:
+INFO:5.950815252121572
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 955:
+INFO:5.950815108944721
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 956:
+INFO:5.950814966362267
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 957:
+INFO:5.950814824371228
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 958:
+INFO:5.95081468296864
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 959:
+INFO:5.950814542151557
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 960:
+INFO:5.950814401917048
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 961:
+INFO:5.950814262262202
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 962:
+INFO:5.950814123184122
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 963:
+INFO:5.9508139846799315
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 964:
+INFO:5.950813846746764
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 965:
+INFO:5.950813709381777
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 966:
+INFO:5.950813572582137
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 967:
+INFO:5.950813436345035
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 968:
+INFO:5.9508133006676704
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 969:
+INFO:5.9508131655472605
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 970:
+INFO:5.950813030981044
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 971:
+INFO:5.950812896966268
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 972:
+INFO:5.950812763500202
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 973:
+INFO:5.950812630580122
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 974:
+INFO:5.950812498203331
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 975:
+INFO:5.950812366367138
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 976:
+INFO:5.950812235068874
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 977:
+INFO:5.950812104305879
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 978:
+INFO:5.950811974075512
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 979:
+INFO:5.950811844375148
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 980:
+INFO:5.950811715202175
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 981:
+INFO:5.950811586553994
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 982:
+INFO:5.950811458428026
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 983:
+INFO:5.950811330821701
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 984:
+INFO:5.950811203732469
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 985:
+INFO:5.950811077157788
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 986:
+INFO:5.9508109510951375
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 987:
+INFO:5.950810825542006
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 988:
+INFO:5.950810700495898
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 989:
+INFO:5.950810575954333
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 990:
+INFO:5.950810451914844
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 991:
+INFO:5.950810328374976
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 992:
+INFO:5.9508102053322895
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 993:
+INFO:5.950810082784362
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 994:
+INFO:5.950809960728779
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 995:
+INFO:5.95080983916314
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 996:
+INFO:5.950809718085065
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 997:
+INFO:5.950809597492176
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 998:
+INFO:5.950809477382121
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 999:
+INFO:5.950809357752552
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1000:
+INFO:5.9508092386011375
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1010:
+INFO:5.950808072881765
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1020:
+INFO:5.950806952507536
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1030:
+INFO:5.950805875351381
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1040:
+INFO:5.950804839400944
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1050:
+INFO:5.950803842751696
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1060:
+INFO:5.950802883600489
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1070:
+INFO:5.950801960239447
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1080:
+INFO:5.950801071050369
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1090:
+INFO:5.950800214499595
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1100:
+INFO:5.9507993891330555
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1110:
+INFO:5.950798593571647
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1120:
+INFO:5.950797826506897
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1130:
+INFO:5.950797086696902
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1140:
+INFO:5.950796372962494
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1150:
+INFO:5.9507956841836895
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1160:
+INFO:5.950795019296376
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1170:
+INFO:5.950794377289197
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1180:
+INFO:5.950793757200591
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1190:
+INFO:5.950793158116027
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1200:
+INFO:5.950792579165405
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1210:
+INFO:5.950792019520616
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1220:
+INFO:5.950791478393232
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1230:
+INFO:5.9507909550323665
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1240:
+INFO:5.950790448722623
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1250:
+INFO:5.950789958782256
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1260:
+INFO:5.950789484561394
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1270:
+INFO:5.95078902544029
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1280:
+INFO:5.950788580827704
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1290:
+INFO:5.950788150159571
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1300:
+INFO:5.950787732897566
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1310:
+INFO:5.9507873285277535
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1320:
+INFO:5.950786936559389
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1330:
+INFO:5.950786556523707
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1340:
+INFO:5.950786187972796
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1350:
+INFO:5.95078583047854
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1360:
+INFO:5.9507854836316145
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1370:
+INFO:5.950785147040542
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1380:
+INFO:5.950784820330827
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1390:
+INFO:5.950784503144117
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1400:
+INFO:5.95078419513741
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1410:
+INFO:5.950783895982289
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1420:
+INFO:5.950783605364228
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1430:
+INFO:5.950783322981905
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1440:
+INFO:5.950783048546557
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1450:
+INFO:5.95078278178139
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1460:
+INFO:5.950782522421026
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1470:
+INFO:5.950782270210978
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1480:
+INFO:5.950782024907133
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1490:
+INFO:5.950781786275266
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1500:
+INFO:5.950781554090574
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1510:
+INFO:5.950781328137238
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1520:
+INFO:5.950781108208012
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1530:
+INFO:5.95078089410382
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1540:
+INFO:5.950780685633393
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1550:
+INFO:5.9507804826129185
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1560:
+INFO:5.950780284865711
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1570:
+INFO:5.950780092221895
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1580:
+INFO:5.950779904518097
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1590:
+INFO:5.950779721597157
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1600:
+INFO:5.950779543307862
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1610:
+INFO:5.950779369504678
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1620:
+INFO:5.950779200047513
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1630:
+INFO:5.950779034801469
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1640:
+INFO:5.950778873636632
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1650:
+INFO:5.9507787164278465
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1660:
+INFO:5.9507785630545245
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1670:
+INFO:5.950778413400441
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1680:
+INFO:5.950778267353562
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1690:
+INFO:5.9507781248058675
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1700:
+INFO:5.950777985653157
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1710:
+INFO:5.95077784979493
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1720:
+INFO:5.950777717134223
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1730:
+INFO:5.950777587577468
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1740:
+INFO:5.950777461034359
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1750:
+INFO:5.950777337417712
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1760:
+INFO:5.95077721664334
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1770:
+INFO:5.950777098629945
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1780:
+INFO:5.950776983298985
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1790:
+INFO:5.9507768705745665
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1800:
+INFO:5.950776760383349
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1810:
+INFO:5.950776652654443
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1820:
+INFO:5.950776547319319
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1830:
+INFO:5.950776444311719
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1840:
+INFO:5.950776343567559
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1850:
+INFO:5.95077624502484
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1860:
+INFO:5.95077614862358
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1870:
+INFO:5.950776054305743
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1880:
+INFO:5.950775962015163
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1890:
+INFO:5.950775871697473
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1900:
+INFO:5.9507757833000285
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1910:
+INFO:5.95077569677186
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1920:
+INFO:5.950775612063602
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1930:
+INFO:5.950775529127442
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1940:
+INFO:5.9507754479170565
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1950:
+INFO:5.950775368387566
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1960:
+INFO:5.950775290495477
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1970:
+INFO:5.950775214198635
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1980:
+INFO:5.950775139456172
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 1990:
+INFO:5.950775066228472
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2000:
+INFO:5.9507749944771176
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2010:
+INFO:5.950774924164855
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2020:
+INFO:5.950774855255545
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2030:
+INFO:5.950774787714133
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2040:
+INFO:5.950774721506604
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2050:
+INFO:5.950774656599948
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2060:
+INFO:5.950774592962133
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2070:
+INFO:5.950774530562061
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2080:
+INFO:5.950774469369546
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2090:
+INFO:5.950774409355274
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2100:
+INFO:5.950774350490784
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2110:
+INFO:5.95077429274843
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2120:
+INFO:5.950774236101363
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2130:
+INFO:5.950774180523492
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2140:
+INFO:5.950774125989475
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2150:
+INFO:5.950774072474681
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2160:
+INFO:5.950774019955177
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2170:
+INFO:5.950773968407691
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2180:
+INFO:5.95077391780961
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2190:
+INFO:5.950773868138944
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2200:
+INFO:5.9507738193743105
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2210:
+INFO:5.950773771494917
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2220:
+INFO:5.9507737244805385
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2230:
+INFO:5.950773678311505
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2240:
+INFO:5.950773632968674
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2250:
+INFO:5.950773588433426
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2260:
+INFO:5.950773544687641
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2270:
+INFO:5.95077350171368
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2280:
+INFO:5.950773459494383
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2290:
+INFO:5.95077341801304
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2300:
+INFO:5.950773377253377
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2310:
+INFO:5.950773337199547
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2320:
+INFO:5.9507732978361165
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2330:
+INFO:5.95077325914806
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2340:
+INFO:5.950773221120742
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2350:
+INFO:5.950773183739903
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2360:
+INFO:5.95077314699166
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2370:
+INFO:5.950773110862474
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2380:
+INFO:5.950773075339162
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2390:
+INFO:5.950773040408873
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2400:
+INFO:5.95077300605908
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2410:
+INFO:5.950772972277574
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2420:
+INFO:5.950772939052452
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2430:
+INFO:5.950772906372114
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2440:
+INFO:5.950772874225241
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2450:
+INFO:5.950772842600803
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2460:
+INFO:5.950772811488037
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2470:
+INFO:5.9507727808764495
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2480:
+INFO:5.9507727507557995
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2490:
+INFO:5.950772721116099
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2500:
+INFO:5.950772691947602
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2510:
+INFO:5.950772663240799
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2520:
+INFO:5.950772634986408
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2530:
+INFO:5.9507726071753755
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2540:
+INFO:5.950772579798861
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2550:
+INFO:5.950772552848235
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2560:
+INFO:5.950772526315076
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2570:
+INFO:5.950772500191156
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2580:
+INFO:5.950772474468447
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2590:
+INFO:5.950772449139107
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2600:
+INFO:5.950772424195479
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2610:
+INFO:5.950772399630086
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2620:
+INFO:5.950772375435621
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2630:
+INFO:5.9507723516049476
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2640:
+INFO:5.950772328131095
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2650:
+INFO:5.950772305007251
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2660:
+INFO:5.95077228222676
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2670:
+INFO:5.950772259783118
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2680:
+INFO:5.950772237669971
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2690:
+INFO:5.950772215881105
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2700:
+INFO:5.950772194410447
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2710:
+INFO:5.9507721732520595
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2720:
+INFO:5.950772152400145
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2730:
+INFO:5.950772131849021
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2740:
+INFO:5.950772111593146
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2750:
+INFO:5.9507720916270905
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2760:
+INFO:5.9507720719455515
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2770:
+INFO:5.950772052543339
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2780:
+INFO:5.950772033415379
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2790:
+INFO:5.950772014556707
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2800:
+INFO:5.950771995962465
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2810:
+INFO:5.950771977627906
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2820:
+INFO:5.950771959548381
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2830:
+INFO:5.950771941719339
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2840:
+INFO:5.950771924136336
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2850:
+INFO:5.950771906795011
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2860:
+INFO:5.950771889691104
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2870:
+INFO:5.950771872820445
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2880:
+INFO:5.950771856178945
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2890:
+INFO:5.950771839762612
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2900:
+INFO:5.950771823567528
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2910:
+INFO:5.950771807589865
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2920:
+INFO:5.9507717918258685
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2930:
+INFO:5.950771776271865
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2940:
+INFO:5.950771760924258
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2950:
+INFO:5.950771745779525
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2960:
+INFO:5.950771730834214
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2970:
+INFO:5.950771716084944
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2980:
+INFO:5.950771701528407
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 2990:
+INFO:5.950771687161359
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3000:
+INFO:5.950771672980619
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3010:
+INFO:5.9507716589830775
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3020:
+INFO:5.950771645165684
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3030:
+INFO:5.950771631525445
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3040:
+INFO:5.950771618059435
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3050:
+INFO:5.9507716047647845
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3060:
+INFO:5.950771591638677
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3070:
+INFO:5.9507715786783555
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3080:
+INFO:5.9507715658811176
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3090:
+INFO:5.950771553244312
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3100:
+INFO:5.950771540765345
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3110:
+INFO:5.9507715284416625
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3120:
+INFO:5.950771516270774
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3130:
+INFO:5.950771504250226
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3140:
+INFO:5.950771492377623
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3150:
+INFO:5.950771480650603
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3160:
+INFO:5.950771469066862
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3170:
+INFO:5.950771457624134
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3180:
+INFO:5.950771446320195
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3190:
+INFO:5.95077143515287
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3200:
+INFO:5.950771424120015
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3210:
+INFO:5.950771413219538
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3220:
+INFO:5.950771402449379
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3230:
+INFO:5.95077139180752
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3240:
+INFO:5.950771381291979
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3250:
+INFO:5.950771370900811
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3260:
+INFO:5.950771360632109
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3270:
+INFO:5.950771350483999
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3280:
+INFO:5.950771340454643
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3290:
+INFO:5.950771330542235
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3300:
+INFO:5.950771320745007
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3310:
+INFO:5.950771311061216
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3320:
+INFO:5.950771301489161
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3330:
+INFO:5.950771292027161
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3340:
+INFO:5.950771282673572
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3350:
+INFO:5.950771273426782
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3360:
+INFO:5.9507712642852
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3370:
+INFO:5.950771255247272
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3380:
+INFO:5.950771246311466
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3390:
+INFO:5.950771237476282
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3400:
+INFO:5.950771228740243
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3410:
+INFO:5.9507712201019
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3420:
+INFO:5.9507712115598315
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3430:
+INFO:5.950771203112638
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3440:
+INFO:5.950771194758947
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3450:
+INFO:5.950771186497409
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3460:
+INFO:5.9507711783267
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3470:
+INFO:5.950771170245514
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3480:
+INFO:5.950771162252575
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3490:
+INFO:5.950771154346626
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3500:
+INFO:5.950771146526429
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3510:
+INFO:5.9507711387907705
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3520:
+INFO:5.95077113113846
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3530:
+INFO:5.950771123568321
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3540:
+INFO:5.950771116079203
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3550:
+INFO:5.950771108669974
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3560:
+INFO:5.950771101339518
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3570:
+INFO:5.9507710940867415
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3580:
+INFO:5.95077108691057
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3590:
+INFO:5.950771079809943
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3600:
+INFO:5.950771072783824
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3610:
+INFO:5.950771065831186
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3620:
+INFO:5.950771058951027
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3630:
+INFO:5.950771052142357
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3640:
+INFO:5.950771045404203
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3650:
+INFO:5.950771038735609
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3660:
+INFO:5.950771032135634
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3670:
+INFO:5.950771025603355
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3680:
+INFO:5.95077101913786
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3690:
+INFO:5.950771012738256
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3700:
+INFO:5.950771006403663
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3710:
+INFO:5.950771000133213
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3720:
+INFO:5.9507709939260565
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3730:
+INFO:5.950770987781353
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3740:
+INFO:5.95077098169828
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3750:
+INFO:5.950770975676026
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3760:
+INFO:5.95077096971379
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3770:
+INFO:5.950770963810791
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3780:
+INFO:5.9507709579662516
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3790:
+INFO:5.9507709521794165
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3800:
+INFO:5.9507709464495315
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3810:
+INFO:5.950770940775864
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3820:
+INFO:5.950770935157687
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3830:
+INFO:5.950770929594285
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3840:
+INFO:5.95077092408496
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3850:
+INFO:5.950770918629019
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3860:
+INFO:5.95077091322578
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3870:
+INFO:5.950770907874574
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3880:
+INFO:5.950770902574741
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3890:
+INFO:5.950770897325629
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3900:
+INFO:5.950770892126604
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3910:
+INFO:5.950770886977033
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3920:
+INFO:5.950770881876296
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3930:
+INFO:5.950770876823783
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3940:
+INFO:5.950770871818892
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3950:
+INFO:5.950770866861034
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3960:
+INFO:5.950770861949622
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3970:
+INFO:5.950770857084085
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3980:
+INFO:5.950770852263856
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 3990:
+INFO:5.950770847488379
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4000:
+INFO:5.950770842757105
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4010:
+INFO:5.950770838069494
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4020:
+INFO:5.950770833425014
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4030:
+INFO:5.95077082882314
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4040:
+INFO:5.950770824263356
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4050:
+INFO:5.950770819745154
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4060:
+INFO:5.95077081526803
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4070:
+INFO:5.950770810831493
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4080:
+INFO:5.950770806435056
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4090:
+INFO:5.950770802078238
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4100:
+INFO:5.950770797760568
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4110:
+INFO:5.95077079348158
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4120:
+INFO:5.950770789240817
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4130:
+INFO:5.9507707850378235
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4140:
+INFO:5.950770780872156
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4150:
+INFO:5.950770776743375
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4160:
+INFO:5.950770772651047
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4170:
+INFO:5.950770768594747
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4180:
+INFO:5.950770764574054
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4190:
+INFO:5.9507707605885525
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4200:
+INFO:5.9507707566378345
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4210:
+INFO:5.9507707527215
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4220:
+INFO:5.9507707488391475
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4230:
+INFO:5.950770744990389
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4240:
+INFO:5.950770741174836
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4250:
+INFO:5.9507707373921095
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4260:
+INFO:5.950770733641836
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4270:
+INFO:5.950770729923642
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4280:
+INFO:5.950770726237165
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4290:
+INFO:5.950770722582046
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4300:
+INFO:5.950770718957929
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4310:
+INFO:5.950770715364465
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4320:
+INFO:5.950770711801309
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4330:
+INFO:5.950770708268121
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4340:
+INFO:5.950770704764566
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4350:
+INFO:5.950770701290313
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4360:
+INFO:5.9507706978450345
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4370:
+INFO:5.95077069442841
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4380:
+INFO:5.9507706910401215
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4390:
+INFO:5.950770687679856
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4400:
+INFO:5.9507706843473045
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4410:
+INFO:5.9507706810421634
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4420:
+INFO:5.9507706777641305
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4430:
+INFO:5.95077067451291
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4440:
+INFO:5.95077067128821
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4450:
+INFO:5.95077066808974
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4460:
+INFO:5.950770664917217
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4470:
+INFO:5.95077066177036
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4480:
+INFO:5.9507706586488895
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4490:
+INFO:5.950770655552534
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4500:
+INFO:5.950770652481022
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4510:
+INFO:5.950770649434089
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4520:
+INFO:5.950770646411471
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4530:
+INFO:5.950770643412909
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4540:
+INFO:5.9507706404381455
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4550:
+INFO:5.950770637486929
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4560:
+INFO:5.95077063455901
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4570:
+INFO:5.950770631654142
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4580:
+INFO:5.950770628772083
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4590:
+INFO:5.950770625912594
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4600:
+INFO:5.950770623075435
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4610:
+INFO:5.950770620260375
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4620:
+INFO:5.950770617467184
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4630:
+INFO:5.950770614695633
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4640:
+INFO:5.950770611945497
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4650:
+INFO:5.950770609216555
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4660:
+INFO:5.950770606508587
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4670:
+INFO:5.950770603821377
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4680:
+INFO:5.950770601154712
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4690:
+INFO:5.950770598508382
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4700:
+INFO:5.950770595882175
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4710:
+INFO:5.950770593275888
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4720:
+INFO:5.950770590689319
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4730:
+INFO:5.950770588122265
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4740:
+INFO:5.950770585574529
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4750:
+INFO:5.950770583045917
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4760:
+INFO:5.950770580536233
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4770:
+INFO:5.950770578045291
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4780:
+INFO:5.950770575572899
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4790:
+INFO:5.950770573118872
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4800:
+INFO:5.9507705706830265
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4810:
+INFO:5.950770568265182
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4820:
+INFO:5.9507705658651595
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4830:
+INFO:5.950770563482781
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4840:
+INFO:5.9507705611178725
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4850:
+INFO:5.950770558770261
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4860:
+INFO:5.9507705564397755
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4870:
+INFO:5.95077055412625
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4880:
+INFO:5.950770551829517
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4890:
+INFO:5.95077054954941
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4900:
+INFO:5.95077054728577
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4910:
+INFO:5.950770545038434
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4920:
+INFO:5.950770542807244
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4930:
+INFO:5.950770540592045
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4940:
+INFO:5.950770538392683
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4950:
+INFO:5.950770536209001
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4960:
+INFO:5.950770534040851
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4970:
+INFO:5.950770531888085
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4980:
+INFO:5.950770529750553
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 4990:
+INFO:5.950770527628108
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5000:
+INFO:5.95077052552061
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5010:
+INFO:5.950770523427914
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5020:
+INFO:5.950770521349881
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5030:
+INFO:5.950770519286371
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5040:
+INFO:5.950770517237246
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5050:
+INFO:5.950770515202371
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5060:
+INFO:5.950770513181612
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5070:
+INFO:5.950770511174837
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5080:
+INFO:5.950770509181913
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5090:
+INFO:5.950770507202714
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5100:
+INFO:5.950770505237108
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5110:
+INFO:5.95077050328497
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5120:
+INFO:5.950770501346176
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5130:
+INFO:5.950770499420602
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5140:
+INFO:5.950770497508123
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5150:
+INFO:5.950770495608622
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5160:
+INFO:5.950770493721977
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5170:
+INFO:5.950770491848073
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5180:
+INFO:5.950770489986791
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5190:
+INFO:5.950770488138014
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5200:
+INFO:5.950770486301632
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5210:
+INFO:5.950770484477529
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5220:
+INFO:5.950770482665595
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5230:
+INFO:5.950770480865718
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5240:
+INFO:5.950770479077793
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5250:
+INFO:5.950770477301708
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5260:
+INFO:5.950770475537358
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5270:
+INFO:5.950770473784637
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5280:
+INFO:5.950770472043442
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5290:
+INFO:5.950770470313671
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5300:
+INFO:5.95077046859522
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5310:
+INFO:5.950770466887986
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5320:
+INFO:5.950770465191875
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5330:
+INFO:5.950770463506785
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5340:
+INFO:5.950770461832618
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5350:
+INFO:5.95077046016928
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5360:
+INFO:5.950770458516673
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5370:
+INFO:5.950770456874705
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5380:
+INFO:5.950770455243282
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5390:
+INFO:5.950770453622311
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5400:
+INFO:5.9507704520116995
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5410:
+INFO:5.950770450411361
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5420:
+INFO:5.950770448821205
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5430:
+INFO:5.950770447241141
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5440:
+INFO:5.950770445671083
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5450:
+INFO:5.950770444110945
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5460:
+INFO:5.95077044256064
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5470:
+INFO:5.950770441020087
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5480:
+INFO:5.950770439489199
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5490:
+INFO:5.9507704379678925
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5500:
+INFO:5.950770436456089
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5510:
+INFO:5.950770434953704
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5520:
+INFO:5.9507704334606615
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5530:
+INFO:5.950770431976878
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5540:
+INFO:5.950770430502278
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5550:
+INFO:5.9507704290367816
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5560:
+INFO:5.950770427580313
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5570:
+INFO:5.950770426132797
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5580:
+INFO:5.950770424694158
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5590:
+INFO:5.95077042326432
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5600:
+INFO:5.9507704218432105
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5610:
+INFO:5.950770420430757
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5620:
+INFO:5.950770419026887
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5630:
+INFO:5.950770417631529
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5640:
+INFO:5.9507704162446124
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5650:
+INFO:5.950770414866067
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5660:
+INFO:5.950770413495825
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5670:
+INFO:5.950770412133815
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5680:
+INFO:5.950770410779972
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5690:
+INFO:5.95077040943423
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5700:
+INFO:5.950770408096519
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5710:
+INFO:5.950770406766775
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5720:
+INFO:5.950770405444932
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5730:
+INFO:5.950770404130928
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5740:
+INFO:5.950770402824698
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5750:
+INFO:5.950770401526178
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5760:
+INFO:5.950770400235308
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5770:
+INFO:5.950770398952022
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5780:
+INFO:5.950770397676264
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5790:
+INFO:5.950770396407969
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5800:
+INFO:5.950770395147081
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5810:
+INFO:5.950770393893537
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5820:
+INFO:5.950770392647279
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5830:
+INFO:5.950770391408252
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5840:
+INFO:5.950770390176395
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5850:
+INFO:5.950770388951653
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5860:
+INFO:5.950770387733967
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5870:
+INFO:5.950770386523284
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5880:
+INFO:5.950770385319547
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5890:
+INFO:5.950770384122702
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5900:
+INFO:5.950770382932696
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5910:
+INFO:5.9507703817494715
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5920:
+INFO:5.95077038057298
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5930:
+INFO:5.950770379403164
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5940:
+INFO:5.950770378239977
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5950:
+INFO:5.950770377083362
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5960:
+INFO:5.950770375933271
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5970:
+INFO:5.950770374789652
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5980:
+INFO:5.950770373652456
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 5990:
+INFO:5.950770372521633
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6000:
+INFO:5.950770371397133
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6010:
+INFO:5.950770370278909
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6020:
+INFO:5.9507703691669125
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6030:
+INFO:5.950770368061093
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6040:
+INFO:5.9507703669614065
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6050:
+INFO:5.950770365867807
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6060:
+INFO:5.950770364780243
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6070:
+INFO:5.950770363698673
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6080:
+INFO:5.95077036262305
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6090:
+INFO:5.950770361553331
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6100:
+INFO:5.950770360489468
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6110:
+INFO:5.950770359431418
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6120:
+INFO:5.950770358379137
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6130:
+INFO:5.950770357332584
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6140:
+INFO:5.950770356291714
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6150:
+INFO:5.950770355256484
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6160:
+INFO:5.950770354226853
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6170:
+INFO:5.950770353202778
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6180:
+INFO:5.950770352184219
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6190:
+INFO:5.950770351171135
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6200:
+INFO:5.950770350163484
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6210:
+INFO:5.950770349161228
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6220:
+INFO:5.950770348164325
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6230:
+INFO:5.950770347172736
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6240:
+INFO:5.950770346186422
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6250:
+INFO:5.9507703452053455
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6260:
+INFO:5.950770344229467
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6270:
+INFO:5.950770343258748
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6280:
+INFO:5.950770342293153
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6290:
+INFO:5.950770341332642
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6300:
+INFO:5.95077034037718
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6310:
+INFO:5.950770339426729
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6320:
+INFO:5.950770338481253
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6330:
+INFO:5.9507703375407175
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6340:
+INFO:5.950770336605084
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6350:
+INFO:5.950770335674321
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6360:
+INFO:5.950770334748389
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6370:
+INFO:5.950770333827258
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6380:
+INFO:5.95077033291089
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6390:
+INFO:5.950770331999252
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6400:
+INFO:5.950770331092311
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6410:
+INFO:5.950770330190034
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6420:
+INFO:5.950770329292386
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6430:
+INFO:5.950770328399335
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6440:
+INFO:5.950770327510849
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6450:
+INFO:5.950770326626895
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6460:
+INFO:5.950770325747441
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6470:
+INFO:5.9507703248724555
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6480:
+INFO:5.950770324001909
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6490:
+INFO:5.950770323135768
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6500:
+INFO:5.950770322274001
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6510:
+INFO:5.950770321416581
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6520:
+INFO:5.950770320563473
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6530:
+INFO:5.950770319714651
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6540:
+INFO:5.950770318870083
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6550:
+INFO:5.950770318029741
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6560:
+INFO:5.950770317193594
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6570:
+INFO:5.950770316361615
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6580:
+INFO:5.950770315533772
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6590:
+INFO:5.950770314710041
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6600:
+INFO:5.9507703138903905
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6610:
+INFO:5.950770313074794
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6620:
+INFO:5.950770312263222
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6630:
+INFO:5.950770311455647
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6640:
+INFO:5.950770310652047
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6650:
+INFO:5.950770309852389
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6660:
+INFO:5.950770309056647
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6670:
+INFO:5.950770308264797
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6680:
+INFO:5.950770307476812
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6690:
+INFO:5.950770306692664
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6700:
+INFO:5.950770305912328
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6710:
+INFO:5.950770305135778
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6720:
+INFO:5.950770304362991
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6730:
+INFO:5.950770303593938
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6740:
+INFO:5.950770302828597
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6750:
+INFO:5.950770302066942
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6760:
+INFO:5.950770301308947
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6770:
+INFO:5.950770300554591
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6780:
+INFO:5.950770299803847
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6790:
+INFO:5.950770299056694
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6800:
+INFO:5.9507702983131034
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6810:
+INFO:5.950770297573055
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6820:
+INFO:5.950770296836526
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6830:
+INFO:5.950770296103492
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6840:
+INFO:5.950770295373931
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6850:
+INFO:5.950770294647818
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6860:
+INFO:5.950770293925132
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6870:
+INFO:5.950770293205848
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6880:
+INFO:5.95077029248995
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6890:
+INFO:5.9507702917774115
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6900:
+INFO:5.950770291068209
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6910:
+INFO:5.950770290362325
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6920:
+INFO:5.950770289659735
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6930:
+INFO:5.950770288960419
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6940:
+INFO:5.950770288264355
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6950:
+INFO:5.950770287571523
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6960:
+INFO:5.950770286881902
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6970:
+INFO:5.950770286195471
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6980:
+INFO:5.95077028551221
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 6990:
+INFO:5.9507702848321
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7000:
+INFO:5.950770284155116
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7010:
+INFO:5.950770283481242
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7020:
+INFO:5.95077028281046
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7030:
+INFO:5.950770282142746
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7040:
+INFO:5.950770281478083
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7050:
+INFO:5.950770280816451
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7060:
+INFO:5.950770280157831
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7070:
+INFO:5.950770279502203
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7080:
+INFO:5.950770278849551
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7090:
+INFO:5.950770278199854
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7100:
+INFO:5.950770277553094
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7110:
+INFO:5.9507702769092505
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7120:
+INFO:5.95077027626831
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7130:
+INFO:5.9507702756302505
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7140:
+INFO:5.950770274995054
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7150:
+INFO:5.950770274362705
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7160:
+INFO:5.950770273733183
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7170:
+INFO:5.950770273106474
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7180:
+INFO:5.950770272482559
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7190:
+INFO:5.950770271861419
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7200:
+INFO:5.950770271243039
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7210:
+INFO:5.950770270627399
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7220:
+INFO:5.9507702700144876
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7230:
+INFO:5.950770269404284
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7240:
+INFO:5.950770268796771
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7250:
+INFO:5.950770268191934
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7260:
+INFO:5.950770267589758
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7270:
+INFO:5.950770266990223
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7280:
+INFO:5.950770266393317
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7290:
+INFO:5.9507702657990205
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7300:
+INFO:5.9507702652073196
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7310:
+INFO:5.950770264618197
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7320:
+INFO:5.9507702640316404
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7330:
+INFO:5.950770263447631
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7340:
+INFO:5.950770262866155
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7350:
+INFO:5.950770262287197
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7360:
+INFO:5.9507702617107405
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7370:
+INFO:5.950770261136773
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7380:
+INFO:5.950770260565277
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7390:
+INFO:5.950770259996241
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7400:
+INFO:5.950770259429647
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7410:
+INFO:5.950770258865483
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7420:
+INFO:5.9507702583037325
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7430:
+INFO:5.950770257744382
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7440:
+INFO:5.9507702571874175
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7450:
+INFO:5.9507702566328256
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7460:
+INFO:5.95077025608059
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7470:
+INFO:5.950770255530699
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7480:
+INFO:5.950770254983139
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7490:
+INFO:5.950770254437896
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7500:
+INFO:5.950770253894953
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7510:
+INFO:5.950770253354302
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7520:
+INFO:5.950770252815926
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7530:
+INFO:5.9507702522798125
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7540:
+INFO:5.95077025174595
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7550:
+INFO:5.950770251214323
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7560:
+INFO:5.950770250684919
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7570:
+INFO:5.950770250157726
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7580:
+INFO:5.950770249632731
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7590:
+INFO:5.95077024910992
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7600:
+INFO:5.950770248589283
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7610:
+INFO:5.950770248070805
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7620:
+INFO:5.950770247554475
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7630:
+INFO:5.950770247040281
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7640:
+INFO:5.950770246528209
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7650:
+INFO:5.950770246018249
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7660:
+INFO:5.950770245510387
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7670:
+INFO:5.9507702450046125
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7680:
+INFO:5.950770244500911
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7690:
+INFO:5.950770243999276
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7700:
+INFO:5.950770243499691
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7710:
+INFO:5.950770243002145
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7720:
+INFO:5.9507702425066284
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7730:
+INFO:5.950770242013128
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7740:
+INFO:5.950770241521634
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7750:
+INFO:5.950770241032134
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7760:
+INFO:5.9507702405446175
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7770:
+INFO:5.9507702400590725
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7780:
+INFO:5.95077023957549
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7790:
+INFO:5.9507702390938535
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7800:
+INFO:5.950770238614159
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7810:
+INFO:5.950770238136393
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7820:
+INFO:5.950770237660544
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7830:
+INFO:5.950770237186601
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7840:
+INFO:5.950770236714556
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7850:
+INFO:5.950770236244396
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7860:
+INFO:5.95077023577611
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7870:
+INFO:5.950770235309692
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7880:
+INFO:5.950770234845127
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7890:
+INFO:5.950770234382406
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7900:
+INFO:5.950770233921521
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7910:
+INFO:5.9507702334624595
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7920:
+INFO:5.950770233005212
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7930:
+INFO:5.950770232549769
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7940:
+INFO:5.950770232096122
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7950:
+INFO:5.950770231644258
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7960:
+INFO:5.950770231194171
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7970:
+INFO:5.9507702307458485
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7980:
+INFO:5.950770230299282
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 7990:
+INFO:5.950770229854462
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8000:
+INFO:5.950770229411379
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8010:
+INFO:5.950770228970024
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8020:
+INFO:5.950770228530387
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8030:
+INFO:5.950770228092458
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8040:
+INFO:5.95077022765623
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8050:
+INFO:5.950770227221693
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8060:
+INFO:5.950770226788837
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8070:
+INFO:5.950770226357654
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8080:
+INFO:5.950770225928135
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8090:
+INFO:5.950770225500271
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8100:
+INFO:5.950770225074052
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8110:
+INFO:5.950770224649472
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8120:
+INFO:5.9507702242265195
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8130:
+INFO:5.950770223805186
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8140:
+INFO:5.950770223385465
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8150:
+INFO:5.950770222967347
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8160:
+INFO:5.950770222550824
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8170:
+INFO:5.950770222135886
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8180:
+INFO:5.950770221722527
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8190:
+INFO:5.950770221310737
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8200:
+INFO:5.950770220900508
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8210:
+INFO:5.950770220491831
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8220:
+INFO:5.950770220084701
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8230:
+INFO:5.950770219679107
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8240:
+INFO:5.950770219275041
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8250:
+INFO:5.950770218872497
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8260:
+INFO:5.950770218471466
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8270:
+INFO:5.95077021807194
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8280:
+INFO:5.950770217673911
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8290:
+INFO:5.950770217277372
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8300:
+INFO:5.950770216882316
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8310:
+INFO:5.950770216488732
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8320:
+INFO:5.9507702160966165
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8330:
+INFO:5.950770215705959
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8340:
+INFO:5.950770215316754
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8350:
+INFO:5.950770214928992
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8360:
+INFO:5.950770214542669
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8370:
+INFO:5.950770214157774
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8380:
+INFO:5.950770213774302
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8390:
+INFO:5.950770213392244
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8400:
+INFO:5.9507702130115945
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8410:
+INFO:5.950770212632346
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8420:
+INFO:5.95077021225449
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8430:
+INFO:5.95077021187802
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8440:
+INFO:5.95077021150293
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8450:
+INFO:5.950770211129214
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8460:
+INFO:5.950770210756863
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8470:
+INFO:5.95077021038587
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8480:
+INFO:5.95077021001623
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8490:
+INFO:5.950770209647933
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8500:
+INFO:5.950770209280974
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8510:
+INFO:5.9507702089153485
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8520:
+INFO:5.950770208551048
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8530:
+INFO:5.950770208188065
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8540:
+INFO:5.950770207826395
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8550:
+INFO:5.950770207466029
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8560:
+INFO:5.950770207106963
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8570:
+INFO:5.950770206749188
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8580:
+INFO:5.950770206392701
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8590:
+INFO:5.950770206037491
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8600:
+INFO:5.950770205683556
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8610:
+INFO:5.950770205330887
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8620:
+INFO:5.950770204979478
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8630:
+INFO:5.950770204629325
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8640:
+INFO:5.9507702042804205
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8650:
+INFO:5.950770203932758
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8660:
+INFO:5.950770203586331
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8670:
+INFO:5.950770203241135
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8680:
+INFO:5.950770202897163
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8690:
+INFO:5.950770202554408
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8700:
+INFO:5.950770202212865
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8710:
+INFO:5.95077020187253
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8720:
+INFO:5.950770201533394
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8730:
+INFO:5.950770201195453
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8740:
+INFO:5.9507702008587
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8750:
+INFO:5.950770200523131
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8760:
+INFO:5.950770200188738
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8770:
+INFO:5.950770199855517
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8780:
+INFO:5.950770199523463
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8790:
+INFO:5.9507701991925686
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8800:
+INFO:5.950770198862826
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8810:
+INFO:5.9507701985342365
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8820:
+INFO:5.95077019820679
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8830:
+INFO:5.95077019788048
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8840:
+INFO:5.950770197555303
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8850:
+INFO:5.950770197231254
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8860:
+INFO:5.950770196908326
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8870:
+INFO:5.950770196586517
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8880:
+INFO:5.950770196265818
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8890:
+INFO:5.950770195946225
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8900:
+INFO:5.950770195627732
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8910:
+INFO:5.950770195310335
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8920:
+INFO:5.950770194994028
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8930:
+INFO:5.950770194678808
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8940:
+INFO:5.950770194364667
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8950:
+INFO:5.950770194051599
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8960:
+INFO:5.950770193739605
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8970:
+INFO:5.950770193428674
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8980:
+INFO:5.950770193118802
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 8990:
+INFO:5.950770192809987
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9000:
+INFO:5.95077019250222
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9010:
+INFO:5.950770192195501
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9020:
+INFO:5.950770191889819
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9030:
+INFO:5.950770191585175
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9040:
+INFO:5.950770191281561
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9050:
+INFO:5.950770190978972
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9060:
+INFO:5.950770190677405
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9070:
+INFO:5.950770190376854
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9080:
+INFO:5.950770190077314
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9090:
+INFO:5.950770189778783
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9100:
+INFO:5.950770189481253
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9110:
+INFO:5.950770189184722
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9120:
+INFO:5.950770188889184
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9130:
+INFO:5.950770188594631
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9140:
+INFO:5.950770188301067
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9150:
+INFO:5.95077018800848
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9160:
+INFO:5.950770187716869
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9170:
+INFO:5.950770187426227
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9180:
+INFO:5.950770187136553
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9190:
+INFO:5.950770186847841
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9200:
+INFO:5.950770186560086
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9210:
+INFO:5.9507701862732825
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9220:
+INFO:5.950770185987429
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9230:
+INFO:5.950770185702521
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9240:
+INFO:5.950770185418553
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9250:
+INFO:5.95077018513552
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9260:
+INFO:5.950770184853418
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9270:
+INFO:5.950770184572246
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9280:
+INFO:5.9507701842919944
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9290:
+INFO:5.950770184012664
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9300:
+INFO:5.950770183734247
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9310:
+INFO:5.950770183456743
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9320:
+INFO:5.950770183180144
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9330:
+INFO:5.950770182904449
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9340:
+INFO:5.950770182629652
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9350:
+INFO:5.950770182355751
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9360:
+INFO:5.95077018208274
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9370:
+INFO:5.950770181810615
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9380:
+INFO:5.950770181539375
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9390:
+INFO:5.950770181269013
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9400:
+INFO:5.950770180999525
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9410:
+INFO:5.95077018073091
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9420:
+INFO:5.950770180463161
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9430:
+INFO:5.950770180196275
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9440:
+INFO:5.9507701799302515
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9450:
+INFO:5.950770179665081
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9460:
+INFO:5.950770179400764
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9470:
+INFO:5.950770179137295
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9480:
+INFO:5.950770178874672
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9490:
+INFO:5.950770178612888
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9500:
+INFO:5.950770178351942
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9510:
+INFO:5.9507701780918305
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9520:
+INFO:5.950770177832547
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9530:
+INFO:5.950770177574092
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9540:
+INFO:5.95077017731646
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9550:
+INFO:5.9507701770596455
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9560:
+INFO:5.950770176803648
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9570:
+INFO:5.950770176548462
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9580:
+INFO:5.950770176294085
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9590:
+INFO:5.950770176040513
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9600:
+INFO:5.950770175787743
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9610:
+INFO:5.950770175535769
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9620:
+INFO:5.950770175284593
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9630:
+INFO:5.950770175034207
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9640:
+INFO:5.950770174784609
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9650:
+INFO:5.950770174535795
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9660:
+INFO:5.9507701742877614
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9670:
+INFO:5.950770174040507
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9680:
+INFO:5.950770173794026
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9690:
+INFO:5.950770173548318
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9700:
+INFO:5.950770173303376
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9710:
+INFO:5.9507701730592
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9720:
+INFO:5.950770172815785
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9730:
+INFO:5.950770172573127
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9740:
+INFO:5.950770172331224
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9750:
+INFO:5.950770172090074
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9760:
+INFO:5.950770171849673
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9770:
+INFO:5.950770171610016
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9780:
+INFO:5.950770171371102
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9790:
+INFO:5.950770171132925
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9800:
+INFO:5.950770170895486
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9810:
+INFO:5.950770170658778
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9820:
+INFO:5.950770170422802
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9830:
+INFO:5.950770170187552
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9840:
+INFO:5.950770169953025
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9850:
+INFO:5.9507701697192195
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9860:
+INFO:5.95077016948613
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9870:
+INFO:5.950770169253757
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9880:
+INFO:5.950770169022095
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9890:
+INFO:5.950770168791141
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9900:
+INFO:5.950770168560893
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9910:
+INFO:5.950770168331347
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9920:
+INFO:5.950770168102503
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9930:
+INFO:5.950770167874354
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9940:
+INFO:5.950770167646899
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9950:
+INFO:5.950770167420136
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9960:
+INFO:5.950770167194061
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9970:
+INFO:5.95077016696867
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9980:
+INFO:5.950770166743964
+INFO:Energy l2norm(div(r) - beta*(d0-g)) after step 9990:
+INFO:5.950770166519936
+INFO:/home/ma6447ru/Documents/promotion/mythesis/python/tvsd_pkg/recordings/tvsd_2025-12-16_12-44-00-671387/denoised_img.png
+INFO:Image Reconstruction finishing.
