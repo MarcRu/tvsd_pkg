@@ -2,6 +2,9 @@
 Marc Runft, Lund, 2025-04-14
 ***************************************
 
+Please cite this paper if you use this code in your research:
+https://arxiv.org/abs/2602.17494
+
 This package contains two different versions
 of the TV-Stokes-algorithm: 
 - A simple one (non-parallel)
